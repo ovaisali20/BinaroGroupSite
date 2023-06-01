@@ -7,7 +7,6 @@
         <?php include("includes/styles.php") ?>
     </head>
     <body>
-        
         <?php include("includes/header.php") ?>
 
         <!-- Footer -->
