@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-12">
                     <div class="mobile_logo">
-                        <a href="https://media.binaro.io/"><img src="/assets/images/logo.png" class="logo" /></a>
+                        <a href="javascript:;"><img src="assets\images\mix\header-logo.png" class="logo" /></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
