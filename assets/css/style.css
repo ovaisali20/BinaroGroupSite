@@ -115,15 +115,6 @@ header .row{align-items: var(--row-flex-property);}
 li.bar-nav {display: var(--nav-ul-flex);align-items: var(--row-flex-property);background-color: #404041;padding: 0 16px;border-radius: var(--border-radius-four);}
 li.bar-nav i {color: var(--color-white);}
 .header-button .style1-btn:hover {background-color: var(--background-color-blue);border-color: var(--border-color-blue);color: var(--color-white);}
-h3 {
-    color: #3498db;
-    font-size: 36px;
-    line-height: 100px;
-    margin: 10px;
-    padding: 2%;
-    position: relative;
-    text-align: center;
-}
 div#slick-slide00{margin: 0 ;background-color: var(--background-color-blue);
 
 }
@@ -142,3 +133,6 @@ div#slick-slide03{
   background-color: var(--background-color-blue);
 
 }
+#brandlogo-section {text-align: var(--text-align-center);}
+.ps_07 {padding: var(--ps70);}
+.brand-headtext h3{color: var(--color-gray);text-transform: var(--text-transform-uper);font-family: var(--font-proxima);font-size: var(--fnt-size-26px);}

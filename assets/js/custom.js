@@ -36,7 +36,7 @@ $(document).ready(function () {
     });
 
 
-    $('.slider-style-1').slick({
+    $('.slider-style-01').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: false,

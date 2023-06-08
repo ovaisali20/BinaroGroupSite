@@ -19,4 +19,4 @@
 /***Proximafont***/
 @font-face {font-family: 'Proxima Nova Rg';src: url('../fonts/ProximaNova-Regular.woff2') format('woff2'),url('../fonts/ProximaNova-Regular.woff') format('woff');font-weight: normal;font-style: normal;
 }
-:root {--header-anchor:'Proxima Nova Rg';--color-anchor:#404041;--header-anchor-font-size:16px;--header-container-width:1943px;--row-flex-property:center;--nav-ul-flex:flex;--nav-flex-center:center;--border-radius-four:4px;--border-width:1px solid #404041;--animation-transition:.9s;--color-white:#fff;--border-color-blue:#2261EC;--background-color-blue:#2261EC;} 
+:root {--header-anchor:'Proxima Nova Rg';--color-anchor:#404041;--header-anchor-font-size:16px;--header-container-width:1943px;--row-flex-property:center;--nav-ul-flex:flex;--nav-flex-center:center;--border-radius-four:4px;--border-width:1px solid #404041;--animation-transition:.9s;--color-white:#fff;--border-color-blue:#2261EC;--background-color-blue:#2261EC;--text-align-center:center;--color-gray:#C2C2C2;--text-transform-uper:uppercase;--font-proxima:'Proxima Nova Rg';--ps70:70px 0;--fnt-size-26px:26px;} 
