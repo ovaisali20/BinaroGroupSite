@@ -69,8 +69,8 @@
                 <div class="conatiner">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="overflow-text">
-                                <h4><span class="oflwtext-left">why</span><span class="circle-shad"></span><span class="oflwtext-right">binaro</span></h4>
+                            <div class="building-overflow-text overflow-text">
+                                <marquee width="120%" direction="right" scrollamount="12"><h4>Why Binaro</h4></marquee>
                             </div>
                             <div class="intro-text-block">
                                 <h2>
@@ -108,8 +108,8 @@
                 <div class="conatiner">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="cus-overflow-text">
-                                <h4><span class="oflwtext-left custext-left">How</span><span class="circle-shad cus-cicleshad"></span> <span class="cutext-right">we are m</span></h4>
+                            <div class="cus-overflow-text overflow-text">
+                                <marquee direction="right" scrollamount="12"><h4>How we are making a difference</h4></marquee>
                             </div>
                             <div class="intro-text-block">
                                 <h2>
@@ -179,12 +179,12 @@
                 <div class="conatiner">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="cus-overflow-text clr-red">
-                                <h4><span class="oflwtext-left custext-left">What</span><span class="circle-shad cus-cicleshad"></span> <span class="cutext-right"> Binaro i</span></h4>
+                            <div class="cus-overflow-text clr-red overflow-text">
+                                <marquee direction="right" scrollamount="12"><h4>What Binaro is doing to help</h4></marquee>
                             </div>
                             <div class="intro-text-block tranform-head">
                                 <h2>
-                                    Transforming <br/>
+                                    Transforming <br />
                                     <span class="head-style2">ideas into</span><br />
                                     digital realities
                                 </h2>
@@ -192,16 +192,16 @@
                         </div>
                     </div>
                     <div class="row text-center ps30 ps-bt60">
-                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
+                        <div class="col-lg-2 col-md-2 col-sm-2"></div>
                         <div class="col-lg-4 col-md-4 col-sm-4 pdlr0">
-                            <img src="assets\images\mix\1.jpg" class="img-fluid img-margbtm">
-                            <img src="assets\images\mix\3.jpg" class="img-fluid">
+                            <img src="assets\images\mix\1.jpg" class="img-fluid img-margbtm" />
+                            <img src="assets\images\mix\3.jpg" class="img-fluid" />
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 pdlr0">
-                         <div class="mar-top">   
-                        <img src="assets\images\mix\2.jpg" class="img-fluid img-margbtm">
-                        <img src="assets\images\mix\4.jpg" class="img-fluid">
-                        </div>
+                            <div class="mar-top">
+                                <img src="assets\images\mix\2.jpg" class="img-fluid img-margbtm" />
+                                <img src="assets\images\mix\4.jpg" class="img-fluid" />
+                            </div>
                         </div>
                         <div class="col-lg-2 col-md-2 col-sm-2"></div>
                     </div>
@@ -218,6 +218,7 @@
                 </div>
             </div>
         </section>
+        <?php include("includes/module-section.php") ?>
 
         <!-- Footer -->
         <?php include("includes/footer.php") ?>
