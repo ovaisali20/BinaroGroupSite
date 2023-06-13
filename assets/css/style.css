@@ -123,9 +123,10 @@ div#slick-slide03{margin: 0 ;background-color: var(--background-color-blue);}
 #brandlogo-section {text-align: var(--text-align-center);}
 .ps_07 {padding: var(--ps70);} 
 .ps30 {padding-top: 30px;padding-bottom: 100px;}
+.ps70{padding-top: 40px;padding-bottom: 70px;}
 .pdlr0{padding: 0;}
 .mar-top {margin-top: -70px;}
-.ps015 {padding-top: var(--padding-top150);}
+.ps015 {padding-top: var(--padding-top40);}
 .ps-bt60{padding-bottom: 50px;}
 .brand-headtext h3{color: var(--color-gray);text-transform: var(--text-transform-uper);font-family: var(--font-proxima);font-size: var(--fnt-size-26px);}
 .intro-text-block {text-align: var(--text-align-center);}
@@ -166,16 +167,16 @@ marquee:after {
   left: 23%;
   z-index: 0;
 }
-.building-overflow-text{
+/* .building-overflow-text{
   position: var(--position-absolute);
   z-index: -1;
   top: -120px;
-}
-.cus-overflow-text {
+} */
+/* .cus-overflow-text {
   position: var(--position-absolute);
   top: -127px;
   z-index: -1;
-}
+} */
 .btn-size a {
   text-align: var(--text-align-center);
   margin-bottom: var(--margin-bottom0);
@@ -206,7 +207,7 @@ marquee:after {
   border-bottom: 1px solid #e9e9e9;
   padding-bottom: 80px;
   margin-top: 40px;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 
 .anim-blue {
@@ -234,9 +235,90 @@ marquee:after {
   z-index: 9;
   border-radius: 300px;
 }
+#Service-section .border_width2:hover {
+  background-color: #0064E5;
+}
+.overflow-text {
+  margin-bottom: -9%;
+  position: relative;
+}
 
 .overflow_heading marquee:after {
   opacity: 0;
+}
+.ai_descblock p {
+  font-family: 'Lato Regular';
+  font-size: 26px;
+  font-weight: 300;
+  color: #A7A7A7;
+  text-transform: lowercase;
+  line-height: 42px;
+}
+.text_bg {
+  background-color: #d6e2ff;
+  color: #2261EC;
+  padding: 0 10px;
+}
+.border_width2{
+border: 1px solid #BFBFBF;
+}
+.img_size_align {
+  width: 80%;
+  margin: 0 auto;
+  display: table;
+}
+.space_p {
+  padding: 40px 20px;
+  margin: 50px 0;
+}
+.img_marg_botm {
+  margin-bottom: 30px;
+}
+.voice_btn a {
+  font-family: var(--font-proxima);
+  font-size: 28px;
+  line-height: 0;
+  color: #2261EC;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.serv_left_des h3 {
+  font-family: var(--font-proxima);
+  text-transform: var(--text-transform-uper);
+  font-size: 30px;
+  line-height: 41px;
+  font-weight: 500;
+}
+.service_btn00 a {
+  border: 1px solid #404041;
+  display: inline-block;
+  font-family: var(--font-proxima);
+  font-size: 14px;
+  line-height: 20px;
+  padding: 14px 27px;
+  font-weight: 700;
+  color: #404041;
+  letter-spacing: 1px;
+  transition: .9s;
+}
+#Service-section .border_width2 {
+  border: 2px solid #404041;
+  margin: 0;
+  display: flex;
+  align-items: end;
+  padding: 50px 0px 50px 40px;
+  transition: .9s;
+}
+.img_box img {
+  transform: scale(1.25);
+  margin-bottom: -32px;
+}
+#Service-section .border_width2:hover .serv_left_des h3, #Service-section .border_width2:hover .serv_left_des a {
+  color: #fff;
+  border-color: #fff;
+}
+.clr_black {
+  color: #000;
 }
  @keyframes fadeInRight {
   from {

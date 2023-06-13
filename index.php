@@ -66,12 +66,12 @@
         </section>
         <section id="intro-section">
             <div class="ps015">
-                <div class="conatiner">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="building-overflow-text overflow-text">
+            <div class="building-overflow-text overflow-text">
                                 <marquee width="120%" direction="right" scrollamount="12"><h4>Why Binaro</h4></marquee>
                             </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
                             <div class="intro-text-block">
                                 <h2>
                                     Building<br />
@@ -105,12 +105,13 @@
         </div>
         <section id="customize-section">
             <div class="ps015">
-                <div class="conatiner">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="cus-overflow-text overflow-text">
+            <div class="cus-overflow-text overflow-text">
                                 <marquee direction="right" scrollamount="12"><h4>How we are making a difference</h4></marquee>
                             </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+
                             <div class="intro-text-block">
                                 <h2>
                                     Customized <br />
@@ -126,8 +127,7 @@
                         </div>
                     </div>
                     <div class="row text-center ps30">
-                        <div class="col-lg-2 col-md-2 col-sm-2"></div>
-                        <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="col-lg-3 col-md-3 col-sm-3">
                             <div class="head-styl03">
                                 <h1>1</h1>
                             </div>
@@ -135,7 +135,7 @@
                                 <h4>design</h4>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="col-lg-3 col-md-3 col-sm-3">
                             <div class="head-styl03">
                                 <h1>2</h1>
                             </div>
@@ -143,7 +143,7 @@
                                 <h4>development</h4>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="col-lg-3 col-md-3 col-sm-3">
                             <div class="head-styl03">
                                 <h1>3</h1>
                             </div>
@@ -151,7 +151,7 @@
                                 <h4>media</h4>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="col-lg-3 col-md-3 col-sm-3">
                             <div class="head-styl03">
                                 <h1>4</h1>
                             </div>
@@ -159,7 +159,6 @@
                                 <h4>coming soon</h4>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-2 col-sm-2"></div>
                     </div>
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center">
@@ -176,12 +175,13 @@
         </section>
         <section id="transforming-section">
             <div class="ps015">
-                <div class="conatiner">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="cus-overflow-text clr-red overflow-text">
+            <div class="cus-overflow-text clr-red overflow-text">
                                 <marquee direction="right" scrollamount="12"><h4>What Binaro is doing to help</h4></marquee>
                             </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+
                             <div class="intro-text-block tranform-head">
                                 <h2>
                                     Transforming <br />
@@ -219,6 +219,53 @@
             </div>
         </section>
         <?php include("includes/module-section.php") ?>
+        <section id="AI-section">
+            <div class="ps015">
+            <div class="aicus-overflow-text ai_text_animnat overflow-text">
+                                <marquee direction="right" scrollamount="12"><h4>ai with binaro</h4></marquee>
+                            </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div class="intro-text-block ai-head">
+                                <h2>
+                                    ai <br />
+                                    <span class="head-style2">do it very</span><br />
+                                    professionally
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+<div class="container cus_width">
+                    <div class="row ps30 ps-bt60 border_width2 space_p">
+                        <div class="col-lg-6 col-md-6 col-sm-6 d-flex flex-wrap align-content-center">
+                         <div class="ai_descblock">   
+                        <p><span class="clr_black">Lorem ipsum  <span class="text_bg">dolor</span>  sit amet, consectetur adipiscing elit.  <span class="text_bg"> Fusce</span>  tempus nisl non est posuere lacinia. Nullam accumsan odio  <span class="text_bg"> non felis varius</span>  efficitur. Class aptent taciti</span> sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc at dolor vestibulum, dapibus lacus quis, maximus sapien. Morbi aliquam risus ac facilisis fermentum.</p>
+</div>
+<div class="voice_btn">
+    <a href="javascript:;">AI voice generator <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+</div>
+                    </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <img src="assets\images\elements\ai_img.png" class="hd-styimg-02 img-fluid  img_size_align img_marg_botm">
+                            <img src="assets\images\elements\sound.png" class="hd-styimg-02 img-fluid  img_size_align">
+                        </div>
+                    </div>
+</div>
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center ">
+                            <div class="heading-style02 fade-in">
+                                <div class="heading-style02-img">
+                                    <img src="assets\images\icons\Vector.png" class="hd-styimg-02 img-fluid" />
+                                </div>
+                                <a href="jascript:;">learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+         <?php include("includes/service_cpt.php") ?>
 
         <!-- Footer -->
         <?php include("includes/footer.php") ?>
