@@ -185,4 +185,7 @@
             </div>
         </div>
     </div>
+    <div class="binaro_scroll_block">
+        <a href="javascript:;"><img src="assets\images\icons\scroll-btn.png"></a>
+    </div>
 </footer>

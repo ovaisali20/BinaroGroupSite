@@ -233,6 +233,7 @@ marquee:after{content:"";background-color:var(--ciircle-shad-bg);width:57%;heigh
 .copy_right_sect{text-align:center}
 .copyright_block{padding:20px 0 20px 0;}
 .copyright_block p{margin:0}
+.binaro_scroll_block{position:fixed;top:20%;right:0;left:5%}
 
 
 @keyframes fadeInRight{0%{opacity:0;transform:translateX(900px)}to{opacity:1}}
