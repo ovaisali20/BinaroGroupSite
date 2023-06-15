@@ -183,9 +183,25 @@ marquee:after{content:"";background-color:var(--ciircle-shad-bg);width:57%;heigh
 .service_btn00 a{border:2px solid #404041;display:inline-block;font-size:14px;line-height:20px;padding:14px 27px;font-weight:700;color:#404041;letter-spacing:1px;transition:.9s;border-radius:4px}
 #Service-section .border_width2{border:2px solid #404041;margin:0;display:flex;align-items:end;padding:50px 0 50px 40px;transition:.9s}.img_box img{transform:scale(1.25);margin-bottom:-32px}
 #Service-section .border_width2:hover .serv_left_des a,#Service-section .border_width2:hover .serv_left_des h3{color:#fff;border-color:#fff}
+.tab_bg:before{content:"";width:60%;height:100%;border:1px solid #fff;position:var(--position-absolute);border-radius:50%;right:-18%;top:40px}
+.cus_style{z-index:9}
+.tab button{display:block;background-color:inherit;color:var(--color-white);font-size:20px;font-family:var(--font-family-regular);line-height:28px;text-align:left;padding:20px 15px;border:unset}
+.design,.development,.marketing,.media_content,.security{display:none}
+.tab_heading{margin-bottom:55px}
+.tab button:hover{color:#ffcb21}
+.intro{color:#ffcb21!important}
+.tab button.active{background-color:#ccc}
+.tab_bg:after,.tabcontent{border:1px solid var(--color-white)}.tabcontent{float:left;padding:0 12px;width:70%;border-left:none;height:300px}
+.tab_bg:after{content:"";width:940px;height:700px;position:var(--position-absolute);border-radius:50%;top:22%;right:-14%;z-index:1}
+.tab_bg{background-color:#0064e5;padding:65px 0 55px;position:var(--position-relative)}
+.tab_heading h2{text-align:center;font-family:var(--font-proxima-bold);text-transform:var(--text-transform-uper);color:var(--color-white);font-size:48px;line-height:52px}
+.tab_content_box p a{color:#000}
+.tab_content_box a,.tab_content_box p{font-family:var(--font-family-lato-bld);font-size:14px;line-height:25px;margin-bottom:0;text-transform:initial}
+.tab_content_box{background-color:var(--color-white);margin-bottom:28px;padding:20px}
+.tab_blog_img img{margin-bottom:10px}
 .clr_black{color:#000}
 .ft_cpttextblock h3{font-family:var(--font-proxima);font-size:48px;line-height:50px;font-weight:500;text-transform:var(--text-transform-uper)}
-.footer_cpt{border:2px solid #404041;border-radius:4px;padding:15px 70px;margin:40px 0}
+.footer_cpt{border:2px solid #404041;border-radius:4px;padding:15px 70px;margin: 90px 0 40px 0;}
 .icon_img{margin-left:-45px}
 .ft_cptimgblock img{margin-top:-80px}
 .ftcpt_btn{margin-top:25px}
@@ -217,7 +233,6 @@ marquee:after{content:"";background-color:var(--ciircle-shad-bg);width:57%;heigh
 .copy_right_sect{text-align:center}
 .copyright_block{padding:20px 0 20px 0;}
 .copyright_block p{margin:0}
-
 
 
 @keyframes fadeInRight{0%{opacity:0;transform:translateX(900px)}to{opacity:1}}

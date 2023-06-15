@@ -142,6 +142,91 @@ function closePopup() {
     $("body").removeClass("over-hidden");
     $(".overlay").fadeOut();
 }
+function fun_all() {
+    $(".design_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").hide();
+    $(".all_content").show();
+}
+function fun_design() {
+    $(".design_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").show();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").hide();
+}
+function fun_devlope() {
+    $(".development_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").show();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").hide();
+}
+function fun_media() {
+    $(".media_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").show();
+    $(".security").hide();
+    $(".marketing").hide();
+}
+function fun_Security() {
+    $(".security_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").show();
+    $(".marketing").hide();
+}
+function fun_Marketing() {
+    $(".marketing_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").show();
+}
+
 
 
 

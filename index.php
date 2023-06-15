@@ -270,7 +270,7 @@
             </div>
         </section>
         <?php include("includes/service_cpt.php") ?>
-
+        <?php include("includes/tab_section.php") ?>
         <!-- Footer -->
         <?php include("includes/footer.php") ?>
 
