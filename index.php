@@ -67,7 +67,7 @@
         <section id="intro-section">
             <div class="ps015">
                 <div class="building-overflow-text overflow-text">
-                    <marquee width="120%" direction="right" scrollamount="12"><h4>Why Binaro</h4></marquee>
+                    <marquee width="120%" direction="right" scrollamount="13"><h4>Why Binaro Why Binaro Why Binaro Why Binaro</h4></marquee>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -106,7 +106,7 @@
         <section id="customize-section">
             <div class="ps015">
                 <div class="cus-overflow-text overflow-text">
-                    <marquee direction="right" scrollamount="12"><h4>How we are making a difference</h4></marquee>
+                    <marquee direction="right" scrollamount="13"><h4>How we are making a difference How we are making a difference How we are making a difference How we are making a difference</h4></marquee>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -125,37 +125,91 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row text-center ps30">
+                    <div class="row text-center p-tb">
                         <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="head-styl03">
-                                <h1>1</h1>
-                            </div>
-                            <div class="description-customize des-cus-clr-gre">
-                                <h4>design</h4>
+                            <div class="number-des">
+                                <div class="head-styl03">
+                                    <h1>1</h1>
+                                </div>
+                                <div class="description-customize des-cus-clr-gre">
+                                    <h4>design</h4>
+                                </div>
+
+                                <div class="hover-number-desc green-box">
+                                    <div class="number-list">
+                                        <ul>
+                                            <li>logo design</li>
+                                            <li>Company profile</li>
+                                            <li>Email Signature</li>
+                                            <li>Brand Guideline</li>
+                                        </ul>
+                                    </div>
+                                    <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
+                                    <div class="hover-img"><img src="assets\images\mix\header-logo.png" class="hd-styimg-02 img-fluid" /></div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="head-styl03">
-                                <h1>2</h1>
-                            </div>
-                            <div class="description-customize des-cus-clr-blu">
-                                <h4>development</h4>
+                            <div class="number-des">
+                                <div class="head-styl03">
+                                    <h1>2</h1>
+                                </div>
+                                <div class="description-customize des-cus-clr-blu">
+                                    <h4>development</h4>
+                                </div>
+                                <div class="hover-number-desc blue-box">
+                                    <div class="number-list">
+                                        <ul>
+                                            <li>Custom Website</li>
+                                            <li>Android App development</li>
+                                            <li>CMS Website</li>
+                                            <li>E-Commerce</li>
+                                        </ul>
+                                    </div>
+                                    <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
+                                    <div class="hover-img"><img src="assets\images\mix\header-logo.png" class="hd-styimg-02 img-fluid" /></div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="head-styl03">
-                                <h1>3</h1>
-                            </div>
-                            <div class="description-customize des-cus-clr-red">
-                                <h4>media</h4>
+                            <div class="number-des">
+                                <div class="head-styl03">
+                                    <h1>3</h1>
+                                </div>
+                                <div class="description-customize des-cus-clr-red">
+                                    <h4>media</h4>
+                                </div>
+                                <div class="hover-number-desc red-box">
+                                    <div class="number-list">
+                                        <ul>
+                                            <li>Digital marketing</li>
+                                            <li>ACopy Writing</li>
+                                            <li>Content Writing</li>
+                                            <li>SEO</li>
+                                        </ul>
+                                    </div>
+                                    <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
+                                    <div class="hover-img"><img src="assets\images\mix\header-logo.png" class="hd-styimg-02 img-fluid" /></div>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-3">
-                            <div class="head-styl03">
-                                <h1>4</h1>
-                            </div>
-                            <div class="description-customize des-cus-clr-sky">
-                                <h4>coming soon</h4>
+                            <div class="number-des">
+                                <div class="head-styl03">
+                                    <h1>4</h1>
+                                </div>
+                                <div class="description-customize des-cus-clr-sky">
+                                    <h4>coming soon</h4>
+                                </div>
+                                <div class="hover-number-desc sea-green-box">
+                                    <div class="number-list">
+                                        <ul>
+                                            <li>Coming Soon</li>
+                                        </ul>
+                                    </div>
+                                    <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
+                                    <div class="hover-img"><img src="assets\images\mix\header-logo.png" class="hd-styimg-02 img-fluid" /></div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -175,7 +229,7 @@
         <section id="transforming-section">
             <div class="ps015">
                 <div class="cus-overflow-text clr-red overflow-text">
-                    <marquee direction="right" scrollamount="12"><h4>What Binaro is doing to help</h4></marquee>
+                    <marquee direction="right" scrollamount="13"><h4>What Binaro is doing to help What Binaro is doing to help What Binaro is doing to help What Binaro is doing to help What Binaro is doing to help</h4></marquee>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -192,75 +246,91 @@
                     <div class="row text-center ps30 ps-bt60">
                         <div class="col-lg-12 col-md-12 col-sm-21 pdlr0">
                             <div class="row">
-                                <div class="col-lg-6 col-md-6 col-sm-6 pdlr0">
-                                   <div class="overlap-box hight_cus"> 
-                                    <img src="assets\images\mix\1.jpg" class="img-fluid img-margbtm" />
-                                    <div class="text_block_overlap_hover">
-                                    <div class="top-heading">
-                                        <h3>Eat Well And Do Good</h3>
-                                        <p>Description here</p>
-                                        </div>
-                                        <div class="top-heading bottom_heading">
-                                            <h2>branding<br> web design<br> web development</h2>
-                                            <div class="service_btn02">
-                                                <a href="javascript:;">View case study</a>
+                                <div class="col-lg-6 col-md-6 col-sm-6 pdlr0 cusmrgbtm">
+                                    <div class="overlap-box">
+                                        <img src="assets\images\mix\1.jpg" class="img-fluid img-margbtm" />
+                                        <div class="text_block_overlap_hover">
+                                            <div class="top-heading">
+                                                <h3>Eat Well And Do Good</h3>
+                                                <p>Description here</p>
+                                            </div>
+                                            <div class="top-heading bottom_heading">
+                                                <h2>
+                                                    branding<br />
+                                                    web design<br />
+                                                    web development
+                                                </h2>
+                                                <div class="service_btn02">
+                                                    <a href="javascript:;">View case study</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                   </div>
                                 </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 pdlr0">
-                                   <div class="overlap-box"> 
-                                   <img src="assets\images\mix\3.jpg" class="img-fluid" />
-                                    <div class="text_block_overlap_hover">
-                                    <div class="top-heading">
-                                        <h3>Eat Well And Do Good</h3>
-                                        <p>Description here</p>
-                                        </div>
-                                        <div class="top-heading bottom_heading">
-                                            <h2>branding<br> web design<br> web development</h2>
-                                            <div class="service_btn02">
-                                                <a href="javascript:;">View case study</a>
+                                <div class="col-lg-6 col-md-6 col-sm-6 pdlr0 marg-cutop">
+                                    <div class="overlap-box">
+                                        <img src="assets\images\mix\3.jpg" class="img-fluid" />
+                                        <div class="text_block_overlap_hover">
+                                            <div class="top-heading">
+                                                <h3>Eat Well And Do Good</h3>
+                                                <p>Description here</p>
+                                            </div>
+                                            <div class="top-heading bottom_heading">
+                                                <h2>
+                                                    branding<br />
+                                                    web design<br />
+                                                    web development
+                                                </h2>
+                                                <div class="service_btn02">
+                                                    <a href="javascript:;">View case study</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                   </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-6 pdlr0">
-                                   <div class="overlap-box hight_cus"> 
-                                    <img src="assets\images\mix\2.jpg" class="img-fluid img-margbtm" />
-                                    <div class="text_block_overlap_hover">
-                                    <div class="top-heading">
-                                        <h3>Eat Well And Do Good</h3>
-                                        <p>Description here</p>
-                                        </div>
-                                        <div class="top-heading bottom_heading">
-                                            <h2>branding<br> web design<br> web development</h2>
-                                            <div class="service_btn02">
-                                                <a href="javascript:;">View case study</a>
+                                    <div class="overlap-box">
+                                        <img src="assets\images\mix\2.jpg" class="img-fluid" />
+                                        <div class="text_block_overlap_hover">
+                                            <div class="top-heading">
+                                                <h3>Eat Well And Do Good</h3>
+                                                <p>Description here</p>
+                                            </div>
+                                            <div class="top-heading bottom_heading">
+                                                <h2>
+                                                    branding<br />
+                                                    web design<br />
+                                                    web development
+                                                </h2>
+                                                <div class="service_btn02">
+                                                    <a href="javascript:;">View case study</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                   </div>
                                 </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 pdlr0">
-                                   <div class="overlap-box"> 
-                                   <img src="assets\images\mix\4.jpg" class="img-fluid" />
-                                    <div class="text_block_overlap_hover">
-                                        <div class="top-heading">
-                                        <h3>Eat Well And Do Good</h3>
-                                        <p>Description here</p>
-                                        </div>
-                                        <div class="top-heading bottom_heading">
-                                            <h2>branding<br> web design<br> web development</h2>
-                                            <div class="service_btn02">
-                                                <a href="javascript:;">View case study</a>
+                                <div class="col-lg-6 col-md-6 col-sm-6 pdlr0 marg-custop">
+                                    <div class="overlap-box">
+                                        <img src="assets\images\mix\4.jpg" class="img-fluid" />
+                                        <div class="text_block_overlap_hover">
+                                            <div class="top-heading">
+                                                <h3>Eat Well And Do Good</h3>
+                                                <p>Description here</p>
+                                            </div>
+                                            <div class="top-heading bottom_heading">
+                                                <h2>
+                                                    branding<br />
+                                                    web design<br />
+                                                    web development
+                                                </h2>
+                                                <div class="service_btn02">
+                                                    <a href="javascript:;">View case study</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                   </div>
                                 </div>
                             </div>
                         </div>
