@@ -352,7 +352,7 @@
         <section id="AI-section">
             <div class="ps015">
                 <div class="aicus-overflow-text ai_text_animnat overflow-text">
-                    <marquee direction="right" scrollamount="12"><h4>ai with binaro</h4></marquee>
+                    <marquee direction="right" scrollamount="12"><h4>ai with binaro ai with binaro ai with binaro ai with binaro ai with binaro ai with binaro</h4></marquee>
                 </div>
                 <div class="container">
                     <div class="row">
