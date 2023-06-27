@@ -150,22 +150,22 @@ letter-spacing: var(--letter-spac10);text-shadow: var(--text-shadow-ovflwtxt);}
 .description-customize h4 {font-family: var(--font-proxima-bold);text-transform: var(--text-transform-uper);font-size: 36px;line-height: 90px;letter-spacing: 3px;}
 .p-tb{padding-top: 30px;padding-bottom: 150px;}
 .overlap-box:hover .text_block_overlap_hover {
-  width: 400px;
   z-index: 9;
   opacity: 1;
+  left: 0;
 }
 .overlap-box {
   position: relative;
   display: flex;
+  overflow: hidden;
 }
 .text_block_overlap_hover {
   position: absolute;
   top: 0;
   z-index: 9;
   height: 100%;
-  left: 0;
+  left: -60%;
   text-align: left;
-  width: 0;
   background-color: #0064e5e3;
   padding: 70px 50px;
   transition: 3s;
@@ -177,13 +177,15 @@ letter-spacing: var(--letter-spac10);text-shadow: var(--text-shadow-ovflwtxt);}
   padding: 0;
   margin: 0;
 }
-.hover-number-desc li {
-  list-style: none;
+.hover-number-desc li a {
   font-family: 'Proxima Nova Rg';
   font-size: 20px;
   line-height: 36px;
   color: #fff;
   text-transform: capitalize;
+}
+.hover-number-desc li{
+  list-style: none;
 }
 .number-des:hover .blue-box {
   background-color: #02affe;
@@ -242,6 +244,7 @@ letter-spacing: var(--letter-spac10);text-shadow: var(--text-shadow-ovflwtxt);}
   padding: 30px 0;
   border-radius: 4px;
   z-index: -1;
+  transition: 3s;
 }
 .marg-custop {
   margin-top: -72px;
@@ -316,7 +319,7 @@ marquee:after{content:"";background-color:var(--ciircle-shad-bg);width:57%;heigh
 .anim-green{-webkit-text-stroke:3px #1ba536}
 .anim-red {-webkit-text-stroke: 3px #CC3333;}
 .anim-watergreen {-webkit-text-stroke: 3px #2AD2C9;}
-.overflow_heading marquee:before{content:"";background-color:#ffffff6b;width:57%;height:95%;position:var(--position-absolute);top:15px;left:23%;z-index:9;border-radius:300px}
+.overflow_heading marquee:before{content:"";    background: radial-gradient(circle at 50% 50%, rgb(250 250 250) 1%, rgb(255 255 255 / 41%) 8%, rgb(255 255 255 / 13%) 79%);;width:57%;height:95%;position:var(--position-absolute);top:15px;left:23%;z-index:9;border-radius:300px}
 #Service-section .border_width2:hover{background-color:#0064e5}
 .overflow-text{margin-bottom:-9%;position:relative}
 .overflow_heading marquee:after{opacity:0}
@@ -388,7 +391,7 @@ marquee:after{content:"";background-color:var(--ciircle-shad-bg);width:57%;heigh
 .copyright_block{padding:20px 0 20px 0;}
 .copyright_block p{margin:0}
 .copyright_links li:hover a {color: #0064e5;}
-.binaro_scroll_block{position:fixed;top: 25%;margin: 0 auto;display: table;}
+.binaro_scroll_block{position:fixed;top: 70%;margin: 0 auto;display: table;}
 
 
 

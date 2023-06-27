@@ -138,10 +138,10 @@
                                 <div class="hover-number-desc green-box">
                                     <div class="number-list">
                                         <ul>
-                                            <li>logo design</li>
-                                            <li>Company profile</li>
-                                            <li>Email Signature</li>
-                                            <li>Brand Guideline</li>
+                                            <li><a href="javascript:;">logo design</a></li>
+                                            <li><a href="javascript:;">Company profile</a></li>
+                                            <li><a href="javascript:;">Email Signature</a></li>
+                                            <li><a href="javascript:;">Brand Guideline</a></li>
                                         </ul>
                                     </div>
                                     <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
@@ -160,10 +160,10 @@
                                 <div class="hover-number-desc blue-box">
                                     <div class="number-list">
                                         <ul>
-                                            <li>Custom Website</li>
-                                            <li>Android App development</li>
-                                            <li>CMS Website</li>
-                                            <li>E-Commerce</li>
+                                            <li><a href="javascript:;">Custom Website</a></li>
+                                            <li><a href="javascript:;">Android App development</a></li>
+                                            <li><a href="javascript:;">CMS Website</a></li>
+                                            <li><a href="javascript:;">E-Commerce</a></li>
                                         </ul>
                                     </div>
                                     <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
@@ -182,10 +182,10 @@
                                 <div class="hover-number-desc red-box">
                                     <div class="number-list">
                                         <ul>
-                                            <li>Digital marketing</li>
-                                            <li>ACopy Writing</li>
-                                            <li>Content Writing</li>
-                                            <li>SEO</li>
+                                            <li><a href="javascript:;">Digital marketing</a></li>
+                                            <li><a href="javascript:;">ACopy Writing</a></li>
+                                            <li><a href="javascript:;">Content Writing</a></li>
+                                            <li><a href="javascript:;">SEO</a></li>
                                         </ul>
                                     </div>
                                     <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
@@ -204,7 +204,7 @@
                                 <div class="hover-number-desc sea-green-box">
                                     <div class="number-list">
                                         <ul>
-                                            <li>Coming Soon</li>
+                                            <li><a href="javascript:;">coming soon</a></li>
                                         </ul>
                                     </div>
                                     <div class="hover-num-btn"><a href="javascript:;">Binaro development</a></div>
@@ -269,7 +269,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6 pdlr0 marg-cutop">
                                     <div class="overlap-box">
-                                        <img src="assets\images\mix\3.jpg" class="img-fluid" />
+                                        <img src="assets\images\mix\2.jpg" class="img-fluid" />
                                         <div class="text_block_overlap_hover">
                                             <div class="top-heading">
                                                 <h3>Eat Well And Do Good</h3>
@@ -292,7 +292,7 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-6 pdlr0">
                                     <div class="overlap-box">
-                                        <img src="assets\images\mix\2.jpg" class="img-fluid" />
+                                        <img src="assets\images\mix\3.jpg" class="img-fluid" />
                                         <div class="text_block_overlap_hover">
                                             <div class="top-heading">
                                                 <h3>Eat Well And Do Good</h3>
