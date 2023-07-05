@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Home | Binaro</title>
+        <title>About Us</title>
         <?php include("../includes/compatibility.php") ?>
         <?php include("../includes/styles.php") ?>
     </head>
@@ -38,7 +38,7 @@
         <section id="intro-section">
             <div class="ps015">
                 <div class="building-overflow-text overflow-text">
-                    <marquee width="120%" direction="right" scrollamount="12"><h4>OUR vision OUR vision OUR vision OUR vision OUR vision OUR vision</h4></marquee>
+                <marquee width="120%" direction="right" scrollamount="12"><h4>OUR <span class="word-gap"></span>vision OUR <span class="word-gap"></span>vision OUR<span class="word-gap"></span> vision OUR<span class="word-gap"></span> vision OUR <span class="word-gap"></span>vision OUR<span class="word-gap"></span> vision</h4></marquee>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -68,7 +68,7 @@
                     <div class="heading-style02-img">
                         <img src="assets\images\icons\Vector.png" class="hd-styimg-02 img-fluid" />
                     </div>
-                    <a href="jascript:;">in More detail</a>
+                    <a href="http://localhost/BinaroGroupSite/vision/">in More detail</a>
                 </div>
             </div>
         </div>

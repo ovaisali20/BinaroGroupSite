@@ -225,8 +225,21 @@ function fun_Marketing() {
     $(".media_content").hide();
     $(".security").hide();
     $(".marketing").show();
+    
 }
 
+$(".support-green").hover(function(){
+    $('#support').toggle("slide");
+});
+$(".infinite-blue").hover(function(){
+    $('#Infinite').toggle("slide");
+});
+$(".Provider-red").hover(function(){
+    $('#Provider').toggle("slide");
+});
+$(".Attract-seablue").hover(function(){
+    $('#Attract').toggle("slide");
+});
 
 
 

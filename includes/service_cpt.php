@@ -15,6 +15,8 @@
                                 <div class="col-lg-5 col-md-5 col-sm-5">
                                 <div class="img_box">
                             <img src="assets\images\elements\ser_leftimg.png" class="hd-styimg-02 img-fluid" />
+                            
+
                             </div>
                                 </div>
                             </div>

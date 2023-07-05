@@ -99,7 +99,7 @@
                     <div class="heading-style02-img">
                         <img src="assets\images\icons\Vector.png" class="hd-styimg-02 img-fluid" />
                     </div>
-                    <a href="jascript:;">About us</a>
+                    <a href="http://localhost/BinaroGroupSite/about-us/">About us</a>
                 </div>
             </div>
         </div>
