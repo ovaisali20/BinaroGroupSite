@@ -35,49 +35,40 @@ $(document).ready(function () {
         closePopup();
     });
 
-    $('.slider-style-1').slick({
+
+    $('.slider-style-01').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: true,
-        autoplay: 500,
+        autoplay: false,
+        //autoplay: 2000,
         arrows: false,
-        dots: false,
+        dots: true,
         fade: true,
         infinite: true,
         pauseOnHover: false,
-        asNavFor: '.slider-style-2',
-    });
-    $('.slider-style-2').slick({
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        asNavFor: '.slider-style-1',
-        dots: false,
-        arrows: false,
-        pauseOnHover: false,
-        focusOnSelect: true,
         responsive: [
-        {
-            breakpoint: 1100,
-            settings: {
-                slidesToShow: 3,
-                slidesToScroll: 1
+            {
+                breakpoint: 1100,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 840,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1
+                }
             }
-        },
-        {
-            breakpoint: 840,
-            settings: {
-                slidesToShow: 3,
-                slidesToScroll: 1
-            }
-        },
-        {
-            breakpoint: 480,
-            settings: {
-                slidesToShow: 2,
-                slidesToScroll: 1
-            }
-        }
-      ]
+          ]
     });
 
     // Banner Top Rated Slider
@@ -85,7 +76,7 @@ $(document).ready(function () {
         infinite: true,
         arrows: false,
         dots: true,
-        autoplay: true,
+       // autoplay: true,
         speed: 2000,
         slidesToShow: 3,
         slidesToScroll: 1,
@@ -151,3 +142,104 @@ function closePopup() {
     $("body").removeClass("over-hidden");
     $(".overlay").fadeOut();
 }
+function fun_all() {
+    $(".design_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").hide();
+    $(".all_content").show();
+}
+function fun_design() {
+    $(".design_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").show();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").hide();
+}
+function fun_devlope() {
+    $(".development_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").show();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").hide();
+}
+function fun_media() {
+    $(".media_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").show();
+    $(".security").hide();
+    $(".marketing").hide();
+}
+function fun_Security() {
+    $(".security_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".marketing_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").show();
+    $(".marketing").hide();
+}
+function fun_Marketing() {
+    $(".marketing_blogs").addClass("intro");
+    $(".all_blogs").removeClass("intro");
+    $(".design_blogs").removeClass("intro");
+    $(".media_blogs").removeClass("intro");
+    $(".security_blogs").removeClass("intro");
+    $(".development_blogs").removeClass("intro");
+    $(".design").hide();
+    $(".all_content").hide();
+    $(".development").hide();
+    $(".media_content").hide();
+    $(".security").hide();
+    $(".marketing").show();
+    
+}
+
+$(".support-green").hover(function(){
+    $('#support').toggle("slide");
+});
+$(".infinite-blue").hover(function(){
+    $('#Infinite').toggle("slide");
+});
+$(".Provider-red").hover(function(){
+    $('#Provider').toggle("slide");
+});
+$(".Attract-seablue").hover(function(){
+    $('#Attract').toggle("slide");
+});
+
+
+

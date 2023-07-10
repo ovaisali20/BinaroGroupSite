@@ -1,0 +1,35 @@
+.gary-btn-block a,.gary-inner-text-block,.golden-btn a,.heading-block,.manger-img-box,.social-btn,.social-btn a{text-align:center}
+.golden-btn a,.icon-block img,.social-btn a{transition:.9s}
+.abt-text-block h2{font-family:'Proxima Nova Rg';font-weight:600;text-transform:uppercase;font-size:46px!important;line-height:52px;color:#fff;margin-bottom:33px}
+.heading-style03-img{position:relative;margin-bottom:-12%}
+.abt-text-block p{font-size:22px;line-height:40px;font-family:'Lato Regular';font-weight:400;color:#fff}
+.heading-style03-img img{margin-left:-2%;transform:scale(1.04) rotate(-10deg)}
+.abt-bg{background-color:#2261ec;padding:80px 0;margin-bottom:70px}
+.ps01{padding-top:var(--padding-top40);padding-bottom:60px}
+.gray-bg{background-color:#f1f7ff;padding:70px 0}
+.gary-btn-block a:hover,.golden-text-block p{color:#656565}
+.golden-text-block h2{color:#05141b;position:relative}
+.gary-inner-text-block{border-radius:4px;border:2px solid #2261ec;padding:35px 16px;color:#2261ec}
+.gary-inner-text-block p{color:#2261ec;text-align:center;font-size:16px;font-family:'Lato Regular';line-height:26px}
+.gary-inner-text-block h4{color:#2261ec;font-size:30px;font-family:'Proxima Nova Rg';font-weight:700;text-transform:uppercase}
+.gary-btn-block a{color:#2261ec;font-size:16px;font-family:'Lato Regular';text-transform:uppercase}
+.golden-btn a,.heading-block h1,.heading-block h2{font-family:'Proxima Nova Rg';text-transform:uppercase}
+.gray-inner-box{padding-top:70px}.bg-blue,.manger-inner-row,.pst80{padding-top:80px}
+.golden-btn a:hover{background-color:#2f66df;color:#fff;border-color:#2f66df}
+.golden-btn a{border-radius:4px;border:1px solid #656565;color:#656565;font-size:14px;font-weight:700;padding:10px 42px}
+.bg-blue{background-color:#06163d;color:#fff;padding-bottom:100px}.manger-img-box{margin-bottom:60px}
+.heading-block h1{font-size:96px;line-height:84px;letter-spacing:9.6px}
+.heading-block h2{font-size:36px;font-weight:400;margin-bottom:25px}
+.heading-block p{font-size:28px;font-family:'Lato Regular';line-height:44px;font-weight:400;color:#fff}
+.social-btn a:hover{background-color:#fff;color:#0077b7}
+.social-btn a{border-radius:4px;background:#0077b7;color:#fff;font-size:14px;font-family:'Proxima Nova Rg';font-weight:600;text-transform:uppercase;padding:10px 47px}
+.icon-text-block h4,.icon-text-block p{font-family:'Lato Regular';line-height:24px}
+.social-btn{margin-top:70px}
+.icon-text-block p{color:#fff;font-size:16px}
+.icon-text-block h4{font-size:18px;font-weight:600}
+.icon-block:hover img{transform:scale(.9)}
+.ptop{padding-top:var(--padding-top40)}
+.icon-text-block:before{content:'';background-color:#c7c7c7;width:73%;height:1px;position:absolute;bottom:0}
+.icon-text-block{position:relative;padding-bottom:2px}
+.pad-top{margin-top:130px}
+.pad-tp{padding-top:20px}

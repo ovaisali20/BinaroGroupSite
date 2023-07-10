@@ -1,0 +1,12 @@
+.heading-style03-img img {
+    margin-left: -62%;
+    transform: scale(1.04) rotate(-10deg);
+}
+.abt-bg, .vision-bg {
+    background-color: #2261ec;
+    padding: 80px 0;
+    margin-bottom: 70px;
+  }
+  .vision-bg {
+    padding-bottom:0;
+  }
