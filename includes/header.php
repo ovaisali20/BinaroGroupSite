@@ -9,14 +9,16 @@
             <div class="row">
                 <div class="col-lg-2 col-md-2 col-sm-12">
                     <div class="mobile_logo">
-                        <a href="javascript:;"><img src="assets\images\mix\header-logo.png" class="logo" /></a>
+                        <a href="./">
+                            <img src="assets\images\mix\header-logo.png" class="logo" />
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-12">
                     <nav class="navigation-header color-blk">
                         <ul>
                             <li><a href="javascript:;">units</a></li>
-                            <li><a href="javascript:;">About Us</a></li>
+                            <li><a href="about-us">About Us</a></li>
                             <li><a href="javascript:;">Portfolio</a></li>
                             <li><a href="javascript:;">Resources</a></li>
                             <li><a href="javascript:;">Blogs</a></li>

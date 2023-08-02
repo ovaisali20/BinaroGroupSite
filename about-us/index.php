@@ -7,111 +7,76 @@
         <?php include("../includes/styles.php") ?>
     </head>
     <body>
+
         <?php include("../includes/header.php") ?>
-        <section id="abt-banner-section">
-            <div class="abt-bg">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-6 col-md-6 col-md-12">
-                            <div class="heading-style03-img">
-                                <img src="assets\images\icons\Vector.png" class="hd-styimg-03 img-fluid" />
-                            </div>
-                            <div class="abt-text-block">
-                                <h2>About Binaro</h2>
-                                <p>
-                                    Binaro Group is your precise, customized, and economical partner for Design, Development, and Media Services. We are more than just a service provider; we believe in thinking big, being innovative, and
-                                    embracing challenges to develop smart and customized solutions that solve problems in unexpected ways. Discover how Binaro Group can help you achieve your digital goals and make a positive impact in your
-                                    success story.
-                                </p>
-                            </div>
+
+        <section class="banner-style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/blue-bg.png);">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-6 col-md-12">
+                        <div class="abt-text-block">
+                            <h2 class="heading-style-1">About Binaro</h2>
+                            <p>Binaro Group is your precise, customized, and economical partner for Design, Development, and Media Services. We are more than just a service provider; we believe in thinking big, being innovative, and embracing challenges to develop smart and customized solutions that solve problems in unexpected ways. Discover how Binaro Group can help you achieve your digital goals and make a positive impact in your success story.</p>
                         </div>
-                        <div classa="col-lg-6 col-md-6 col-md-12">
-                            <div class="abt-img-block">
-                                <img src="assets\images\mix\abt-banner-img.png" class="img-fluid" />
-                            </div>
+                    </div>
+                    <div classa="col-lg-6 col-md-6 col-md-12">
+                        <div class="abt-img-block">
+                            <img src="assets\images\mix\abt-banner-img.png" class="img-fluid" />
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="intro-section">
-            <div class="ps015">
-                <div class="building-overflow-text overflow-text">
+        <section class="spacing__x">
+            <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>OUR <span class="word-gap"></span>vision OUR <span class="word-gap"></span>vision OUR<span class="word-gap"></span> vision OUR<span class="word-gap"></span> vision OUR <span class="word-gap"></span>vision OUR<span class="word-gap"></span> vision</h4></marquee>
+                <div class="intro-text-block mb-3">
+                    <h2>binaro<br /> <span class="head-style2">vision</span><br />statement</h2>
                 </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="intro-text-block">
-                                <h2>
-                                    binaro<br />
-                                    <span class="head-style2">vision</span><br />
-                                    statement
-                                </h2>
-                            </div>
-                            <div class="intro-desc">
-                                <p>
-                                    We want to be seen as an infinite provider of cutting-edge digital solutions<br />
-                                    that attracts, connects, supports and enables cause-driven individuals and<br />
-                                    companies in pursuing their ambitious boundary-moving goals.
-                                </p>
-                            </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="intro-desc">
+                            <p>We want to be seen as an infinite provider of cutting-edge digital solutions<br /> that attracts, connects, supports and enables cause-driven individuals and<br /> companies in pursuing their ambitious boundary-moving goals.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="text-center mb-110 mt-50">
+                            <a href="our-vision" class="btn-style-1">in More detail</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="marquee-text">
+                <marquee direction="right" scrollamount="12"><h4>OUR MISSION OUR MISSION OUR MISSION OUR MISSION OUR MISSION</h4></marquee>
+                <div class="intro-text-block mb-3">
+                    <h2>Our <br /> <span class="head-style2">mission</span><br />statement</h2>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="intro-desc">
+                            <p>We are here to develop innovative and affordable digital solutions on time while<br /> ensuring exceptional customer service. Through our technically sound business<br /> solutions, we change, simplify and improve the way people live and work. We<br /> commit our infinite mindset and expertise towards creating opportunities and<br /> enabling our stakeholders to achieve their goals.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center">
-                <div class="heading-style02 fade-in">
-                    <div class="heading-style02-img">
-                        <img src="assets\images\icons\Vector.png" class="hd-styimg-02 img-fluid" />
-                    </div>
-                    <a href="http://localhost/BinaroGroupSite/vision/">in More detail</a>
-                </div>
-            </div>
-        </div>
-        <section id="customize-section">
-            <div class="ps01">
-                <div class="cus-overflow-text overflow-text">
-                    <marquee direction="right" scrollamount="12"><h4>OUR MISSION OUR MISSION OUR MISSION OUR MISSION OUR MISSION</h4></marquee>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="intro-text-block">
-                                <h2>
-                                    Our <br />
-                                    <span class="head-style2">mission</span><br />
-                                    statement
-                                </h2>
-                            </div>
-                            <div class="intro-desc">
-                                <p>
-                                    We are here to develop innovative and affordable digital solutions on time while<br />
-                                    ensuring exceptional customer service. Through our technically sound business<br />
-                                    solutions, we change, simplify and improve the way people live and work. We<br />
-                                    commit our infinite mindset and expertise towards creating opportunities and<br />
-                                    enabling our stakeholders to achieve their goals.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <section id="golden-section">
             <div class="gray-bg">
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-lg-6 col-md-6 col-md-12">
-                            <div class="heading-style03-img overlap-img-heading">
-                                <img src="assets\images\icons\Vector.png" class="hd-styimg-03 img-fluid" />
-                            </div>
                             <div class="abt-text-block golden-text-block">
-                                <h2>Golden Circle</h2>
-                                <p>
+                                <h2 class="heading-style-1">Golden Circle</h2>
+                                <p class="mb-3">
                                     Binaro Group is your precise, customized, and economical partner for Design, Development, and Media Services. We are more than just a service provider; we believe in thinking big, being innovative, and
                                     embracing challenges to develop smart and customized solutions that solve problems in unexpected ways. Discover how Binaro Group can help you achieve your digital goals and make a positive impact in your
                                     success story.
@@ -186,45 +151,36 @@
                 </div>
             </div>
         </section>
-        <section id="our-core">
-            <div class="pst80">
-                <div class="building-overflow-text overflow-text">
-                    <marquee width="120%" direction="right" scrollamount="12"><h4>core values core values core values core values core values core values core values</h4></marquee>
+
+        <section class="our-core spacing__x pb-0">
+            <div class="marquee-text">
+                <marquee width="120%" direction="right" scrollamount="12"><h4>core values core values core values core values core values core values core values</h4></marquee>
+                <div class="intro-text-block">
+                    <h2>Our<br /> <span class="head-style2">Core</span><br />values</h2>
                 </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <div class="intro-text-block">
-                                <h2>
-                                    Our<br />
-                                    <span class="head-style2">Core</span><br />
-                                    values
-                                </h2>
-                            </div>
-                            <div class="intro-desc">
-                                <p>
-                                    We are here to develop innovative and affordable digital solutions on time while<br />
-                                    ensuring exceptional customer service. Through our technically sound business<br />
-                                    solutions, we change, simplify and improve the way people live and work. We commit<br />
-                                    our infinite mindset and expertise towards creating opportunities and<br />
-                                    enabling our stakeholders to achieve their goals.
-                                </p>
-                            </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="intro-desc">
+                            <p>
+                                We are here to develop innovative and affordable digital solutions on time while<br />
+                                ensuring exceptional customer service. Through our technically sound business<br />
+                                solutions, we change, simplify and improve the way people live and work. We commit<br />
+                                our infinite mindset and expertise towards creating opportunities and<br />
+                                enabling our stakeholders to achieve their goals.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center">
+                        <div class="text-center mb-110 mt-50">
+                            <a href="our-vision" class="btn-style-1">in More detail</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center">
-                <div class="heading-style02 fade-in">
-                    <div class="heading-style02-img">
-                        <img src="assets\images\icons\Vector.png" class="hd-styimg-02 img-fluid" />
-                    </div>
-                    <a href="jascript:;">in More detail</a>
-                </div>
-            </div>
-        </div>
+
         <section id="mang-director">
             <div class="bg-blue">
                 <div class="container">
@@ -330,10 +286,17 @@
                 </div>
             </div>
         </section>
-        <div class="pad-tp"><?php include("../includes/service_cpt.php") ?></div>
+
+        <div class="pad-tp">
+            <?php include("../includes/cta-1.php") ?>
+        </div>
+
         <?php include("../includes/module-section.php") ?>
+
         <!-- Footer -->
-        <div class="pad-top"><?php include("../includes/footer.php") ?></div>
+        <div class="pad-top">
+            <?php include("../includes/footer.php") ?>
+        </div>
 
         <!-- Default Popup -->
         <?php include("../includes/popup.php") ?>
