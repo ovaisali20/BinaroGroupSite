@@ -105,6 +105,24 @@ $(document).ready(function () {
       ]
     });
 
+    // Profile slider
+    $('.js-profile-slider').slick({
+        centerMode: true,
+        centerPadding: '250px',
+        slidesToShow: 1,
+        arrows: false,
+        dots: true,
+      });
+
+      // Digital realities slider
+      $('.js-digital-realities').slick({
+        infinite: true,
+        slidesToShow:2,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true
+      });
+
 });
 
 
