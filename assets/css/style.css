@@ -703,6 +703,10 @@ body {
     position: relative;
     display: flex;
     overflow: hidden;
+    margin-bottom: 35px;
+}
+.overlap-box img {
+    width: 100%;
 }
 .text_block_overlap_hover {
     position: absolute;
