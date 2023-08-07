@@ -330,6 +330,7 @@ ul.inline-block li:last-child {
 
 
 .element {position: absolute;}
+
 .element-1 {
     left: 0;
     bottom: 0;
@@ -345,6 +346,14 @@ ul.inline-block li:last-child {
 .element-4 {
     right: 12%;
     bottom: 0;
+}
+.career-element-1 {
+    bottom: 0;
+    left: 12%;
+}
+.career-element-2 {
+    bottom: 0;
+    right: 13%;
 }
 
 
@@ -1808,7 +1817,7 @@ marquee:after {
     border-width: 1px;
     border-style: solid;
     border-radius: 30px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 .service-style-box .intro-text {
     position: relative;
@@ -1823,8 +1832,8 @@ marquee:after {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 130px;
-    height: 130px;
+    width: 180px;
+    height: 150px;
     border-radius: 100px;
     margin-right: 30px;
 }
@@ -1833,6 +1842,7 @@ marquee:after {
     font-size: 64px;
     font-weight: 700;
     text-transform: uppercase;
+    width: 100%;
 }
 .service-style-box .intro-text h3 span {
     display: block;
@@ -1906,8 +1916,97 @@ marquee:after {
 .content-box {
     display: none;
 }
+.content-box .job-detail {
+    background-color: #FFFFFF;
+    padding: 30px 25px;
+    display: flex;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+.content-box .job-detail .icon-box {
+    margin-right: 20px;
+}
+.content-box .job-detail .icon-box span {
+    width: 115px;
+    height: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 100px;
+}
+.content-box .job-detail .text-box h5 {
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.content-box .job-detail .text-box ul {
+    margin-bottom: 25px;
+}
+.content-box .job-detail .text-box ul > li {
+    text-transform: uppercase;
+    font-family: var(--ff-lato);
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.content-box .job-detail .text-box ul > li > span {
+    font-weight: 700;
+}
+.content-box .job-detail .text-box ul > li > span svg {
+    margin-right: 3px;
+}
+.content-box .job-detail .text-box .view-detail {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-width: 1px;
+    border-style: solid;
+    padding: 15px 25px;
+    border-radius: 4px;
+    line-height: normal;
+}
+.content-box .job-detail .text-box .view-detail:hover {
+    color: #FFFFFF;
+}
+.content-box .job-detail .text-box .view-detail.color-light-blue:hover {
+    background-color: var(--color-light-blue);
+}
+.content-box .job-detail .text-box .view-detail.color-green:hover {
+    background-color: var(--color-green);
+}
+.content-box .job-detail .text-box .view-detail.color-red:hover {
+    background-color: var(--color-red);
+}
+.content-box .job-detail .text-box .view-detail.color-cyan:hover {
+    background-color: var(--color-cyan);
+}
+
+
+
+
 .accordian-style-1 > ul > li {
     border-radius: 30px;
+}
+.content-box .job-detail .text-box ul > li > .color-light-blue svg path {
+    fill: var(--color-light-blue);
+}
+.content-box .job-detail .text-box ul > li > .color-green svg path {
+    fill: var(--color-green);
+}
+.content-box .job-detail .text-box ul > li > .color-red svg path {
+    fill: var(--color-red);
+}
+.content-box .job-detail .text-box ul > li > .color-cyan svg path {
+    fill: var(--color-cyan);
+}
+.accordian-style-1 > ul > li.active .intro-text .heading .circle img {
+    filter: invert(0.30);
+}
+.accordian-style-1 > ul > li.active .service-style-box .heading-box {
+    margin-bottom: 30px;
 }
 .accordian-style-1 > ul > li.active .intro-text .heading .circle {
     background-color: #FFFFFF;
@@ -1915,8 +2014,18 @@ marquee:after {
 .accordian-style-1 > ul > li.active .intro-text h3, .accordian-style-1 > ul > li.active .intro-text h3 span  {
     color: #FFFFFF;
 }
+.accordian-style-1 > ul > li.active .heading-box .intro-text h3 {
+    border-bottom: 1px solid #FFFFFF;
+}
+.accordian-style-1 > ul > li.active .expand-arrow {
+    background-color: #FFFFFF;
+}
+.accordian-style-1 > ul > li.active .expand-arrow::before {
+    filter: invert(0.30);
+    transform: rotate(180deg);
+}
 .accordian-style-1 > ul > li.active:nth-child(1) {
-    background-color: var(--color-green);
+    background-color: var(--color-light-blue);
 }
 .accordian-style-1 > ul > li.active:nth-child(2) {
     background-color: var(--color-green);
