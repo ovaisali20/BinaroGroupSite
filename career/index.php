@@ -104,7 +104,7 @@
             </div>
         </section>
 
-        <section class="spacing__x pt-0">
+        <section>
             <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>Why <span class="word-gap"></span>Binaro Why <span class="word-gap"></span>Binaro Why<span class="word-gap"></span> Binaro Why<span class="word-gap"></span> Binaro Why <span class="word-gap"></span>Binaro Why<span class="word-gap"></span> Binaro</h4></marquee>
                 <div class="intro-text-block mb-3">

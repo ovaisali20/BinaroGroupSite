@@ -355,6 +355,10 @@ ul.inline-block li:last-child {
     bottom: 0;
     right: 13%;
 }
+.jobdetail-element-1 {
+    bottom: 0;
+    right: 2%;
+}
 
 
 
@@ -489,9 +493,16 @@ ul.inline-block li:last-child {
 .banner.style-3 {
     min-height: 730px;
 }
+.banner.style-4 {
+    min-height: 610px;
+}
 .spacing__x {
     padding: 100px 0;
 }
+.spacing__x2 {
+    padding: 80px 0;
+}
+
 .mt-50 {
     margin-top: 50px;
 }
@@ -2045,4 +2056,78 @@ marquee:after {
     padding: 10px 30px;
     background: var(--background, #06163D);
     border: 1px solid var(--background, #06163D);
+}
+
+
+.banner.style-4 .abt-text-block p {
+    font-size: 20px;
+    line-height: 32px;
+}
+.job-requirements {
+    background-color: #05360F;
+}
+.jr-style {
+    position: relative;
+    margin-bottom: 50px;
+}
+.jr-style h4 {
+    color: #FFF204;
+    font-size: 36px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #FFFFFF;
+}
+.jr-style p, .jr-style ul li {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.jr-style ul li {
+    margin-bottom: 10px;
+}
+.jr-style ul li i {
+    color: #FFF204;
+    font-size: 18px;
+    margin-right: 5px;
+}
+.job-inputs label {
+    font-size: 20px;
+    font-weight: 400;
+}
+.job-inputs label span {
+    color: var(--color-red);
+}
+.input-style-1 {
+    background-color: #f1f1f1;
+    border: 1px solid #cfd2d4;
+    border-radius: 10px;
+    padding: 0 25px;
+    height: 75px;
+    font-size: 24px;
+}
+.select-style-1 {
+    background-color: #f1f1f1;
+    border: 1px solid #cfd2d4;
+    border-radius: 10px;
+    padding: 0 25px;
+    height: 75px;
+    font-size: 24px;
+}
+.textarea-style-1 {
+   background-color: #f1f1f1;
+   border: 1px solid #cfd2d4;
+   border-radius: 10px;
+   padding: 20px 25px;
+   font-size: 24px;
+   resize: none;
+}
+.submit-style-1 {
+    display: inline-block;
+    border: 1px solid var(--color-dark-blue);
+    background-color: var(--color-dark-blue);
+    color: #FFFFFF;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    border-radius: 4px;
 }
