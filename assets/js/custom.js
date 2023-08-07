@@ -18,11 +18,11 @@ $(document).ready(function () {
     });
 
     // Accordian
-    $(".accordian h5").click(function () {
+    $(".accordian .expand-arrow").click(function () {
         $(".accordian li").removeClass("active");
         $(this).parent("li").addClass("active");
-        $(".accordian li div").slideUp();
-        $(this).parent("li").find("div").slideDown();
+        $(".accordian li .content-box").slideUp();
+        $(this).parent("li").find(".content-box").slideDown();
     });
 
     // Popup Default
