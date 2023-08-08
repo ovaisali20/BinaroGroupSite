@@ -1,4 +1,4 @@
-    <?php include("includes/var.php") ?>
+<?php include("includes/var.php") ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>

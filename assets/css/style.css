@@ -548,7 +548,7 @@ header.sticky-header {
     position: fixed;
     width: 100%;
     box-shadow: 0 1px 10px 1px #e9e9e9;
-    z-index: 4;
+    z-index: 99;
 }
 
 .style1-btn {
@@ -568,8 +568,7 @@ li.bar-nav i {
     color: var(--color-white);
 }
 
-.header-button .style1-btn:hover,
-.ftcpt_btn:hover a {
+.header-button .style1-btn:hover, .ftcpt_btn a:hover {
     background-color: var(--background-color-blue);
     border-color: var(--border-color-blue);
     color: var(--color-white);
@@ -1091,10 +1090,7 @@ marquee:after {
 .intro {
     color: #ffcb21 !important;
 }
-.tab_bg:after,
-.tabcontent {
-    border: 1px solid var(--color-white);
-}
+
 .tabcontent {
     float: left;
     padding: 0 12px;
@@ -1102,7 +1098,14 @@ marquee:after {
     border-left: none;
     height: 300px;
 }
-.tab_bg:after {
+
+.tab_bg {
+    background-color: #0064e5;
+    padding: 65px 0 55px;
+    position: relative;
+    overflow: hidden;
+}
+.tab_bg::after {
     content: "";
     width: 940px;
     height: 700px;
@@ -1112,11 +1115,11 @@ marquee:after {
     right: -14%;
     z-index: 1;
 }
-.tab_bg {
-    background-color: #0064e5;
-    padding: 65px 0 55px;
-    position: var(--position-relative);
+.tab_bg:after,
+.tabcontent {
+    border: 1px solid var(--color-white);
 }
+
 .tab_heading h2 {
     text-align: center;
     font-family: var(--ff-proxima);
@@ -2130,4 +2133,62 @@ marquee:after {
     padding: 10px 50px;
     text-transform: uppercase;
     border-radius: 4px;
+    font-family: var(--ff-proxima);
+}
+
+.btn-style-3 {
+    position: relative;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    border: 1px solid #FFFFFF;
+    border-radius: 4px;
+    padding: 10px 30px;
+}
+.btn-style-3:hover {
+    background-color: #FFFFFF;
+    color: #05360F;
+}
+
+.job-title {
+    margin-bottom: 30px;
+}
+.job-title div:first-child {
+    margin-right: 30px;
+}
+.job-title h4 {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 64px;
+    font-weight: 600;
+    margin: 0;
+}
+.job-title ul {
+    display: flex;
+    align-items: center;
+}
+.job-title ul li {
+    font-size: 16px;
+    color: #FFF204;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+.job-title ul li strong i {
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+
+.circle {
+    background-color: #FFFFFF;
+    width: 125px;
+    height: 125px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.banner-style-5 {
+    overflow: hidden;
 }

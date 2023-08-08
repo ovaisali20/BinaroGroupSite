@@ -15,8 +15,24 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="abt-text-block">
-                            <h2 class="heading-style-1">Join Our Time</h2>
-                            <p>We are seeking a new graphic designer to join our team. You will be designing a wide variety of things across digital and offline media. To be successful in this position, you’ll be a self-starter, capable of delivering brilliant creative ideas, and show amazing attention to detail. <br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae sapien placerat, pellentesque diam ac, sollicitudin dui. Proin nisl dolor, sollicitudin nec mollis eu, vehicula at odio. Sed quis ipsum vel arcu dignissim venenatis non et velit. Nunc feugiat lacus in lectus varius, eget hendrerit nisi pulvinar. Sed vestibulum facilisis ligula, a rhoncus elit efficitur sit amet. Suspendisse facilisis, ante a porta pharetra, ante mi rhoncus ante, nec vulputate lacus ex quis leo. Phasellus sodales blandit ante ut aliquet. Integer quis ante faucibus, porta ipsum non, tempor velit. Donec efficitur vitae dui eget efficitur. Aenean nec feugiat ligula, eget faucibus orci. Praesent at euismod dolor.</p>
+                            <div class="job-title d-inline-flex align-items-center">
+                                <div>
+                                    <span class="circle"><img src="assets/images/mix/logo-green.png" /></span>
+                                </div>
+                                <div>
+                                    <h4>graphics Designer</h4>
+                                    <ul>
+                                        <li><strong><i class="fas fa-clock"></i> Job Type: </strong> full time</li>
+                                        <li><strong><i class="fas fa-map-marker-alt"></i> workplace: </strong>karachi, pakistan</li>
+                                        <li><strong><i class="fas fa-calendar-alt"></i> start of work: </strong>23.02.2022</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <p class="mb-4">We are seeking a new graphic designer to join our team. You will be designing a wide variety of things across digital and offline media. To be successful in this position, you’ll be a self-starter, capable of delivering brilliant creative ideas, and show amazing attention to detail. <br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae sapien placerat, pellentesque diam ac, sollicitudin dui. Proin nisl dolor, sollicitudin nec mollis eu, vehicula at odio. Sed quis ipsum vel arcu dignissim venenatis non et velit. Nunc feugiat lacus in lectus varius, eget hendrerit nisi pulvinar. Sed vestibulum facilisis ligula, a rhoncus elit efficitur sit amet. Suspendisse facilisis, ante a porta pharetra, ante mi rhoncus ante, nec vulputate lacus ex quis leo. Phasellus sodales blandit ante ut aliquet. Integer quis ante faucibus, porta ipsum non, tempor velit. Donec efficitur vitae dui eget efficitur. Aenean nec feugiat ligula, eget faucibus orci. Praesent at euismod dolor.</p>
+                            <ul class="d-inline-flex">
+                                <li><a href="javascript:;" class="btn-style-3 mr-2">Apply now</a></li>
+                                <li><a href="javascript:;" class="btn-style-3">Share with a friend</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -180,7 +196,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-12 text-center">
+                    <div class="col-lg-12 text-center mt-5">
                         <div class="form-group d-inline-block mb-0">
                             <input type="submit" name="" class="submit-style-1" value="Submit">
                         </div>

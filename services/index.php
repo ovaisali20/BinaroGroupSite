@@ -16,7 +16,11 @@
                     <div class="col-lg-6 col-md-6 col-md-12">
                         <div class="abt-text-block">
                             <h2 class="heading-style-1">GOLden circle</h2>
-                            <p>Binaro provides one-window solution for all your design and development needs. Our aim is to provide high-quality digital solution to all the businesses, from small and medium companies to fortune 500 companies and help them grow further.</p>
+                            <p class="mb-4">Binaro provides one-window solution for all your design and development needs. Our aim is to provide high-quality digital solution to all the businesses, from small and medium companies to fortune 500 companies and help them grow further.</p>
+                            <ul class="d-inline-flex">
+                                <li><a href="javascript:;" class="btn-style-3 mr-2">EXPLORE MORE</a></li>
+                                <li><a href="javascript:;" class="btn-style-3">REquest A quote</a></li>
+                            </ul>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-md-12">
