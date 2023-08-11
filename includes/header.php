@@ -30,7 +30,7 @@
                         <ul>
                             <li><a href="javascript:;" class="style1-btn">Partner program</a></li>
                             <li><a href="javascript:;" class="style1-btn">Request Callback</a></li>
-                            <li><a href="javascript:;" class="style1-btn">Get a Quote</a></li>
+                            <li><a href="get-a-quote" class="style1-btn">Get a Quote</a></li>
                             <li class="bar-nav"><a href="javascript:;"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
                         </ul>
                     </div>

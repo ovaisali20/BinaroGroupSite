@@ -112,16 +112,36 @@ $(document).ready(function () {
         slidesToShow: 1,
         arrows: false,
         dots: true,
-      });
+    });
 
-      // Digital realities slider
-      $('.js-digital-realities').slick({
+    // Digital realities slider
+    $('.js-digital-realities').slick({
         infinite: true,
         slidesToShow:2,
         slidesToScroll: 1,
         dots: false,
-        arrows: true
-      });
+        arrows: true,
+    });
+
+    // Artificial Intelligence slider
+    $('.js-ai-slider').slick({
+        infinite: true,
+        slidesToShow:1,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true,
+    });
+
+    // Related News slider
+    $('.js-related-news-slider').slick({
+        infinite: true,
+        slidesToShow:3,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true,
+    });
+
+
 
 });
 
@@ -258,6 +278,3 @@ $(".Provider-red").hover(function(){
 $(".Attract-seablue").hover(function(){
     $('#Attract').toggle("slide");
 });
-
-
-

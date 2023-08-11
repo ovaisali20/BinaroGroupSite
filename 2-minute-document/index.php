@@ -1,7 +1,6 @@
 <?php include("../includes/var.php") ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>2 minute Document</title>
     <?php include("../includes/compatibility.php") ?>
@@ -23,7 +22,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-md-12">
                     <div class="vision-img-block">
-                        <img src="assets/images/mix/2-minutes-banner-image.png" class="img-fluid" />
+                        <img src="assets/images/mix/2-minutes-banner-image.png" class="" />
                     </div>
                 </div>
             </div>
@@ -208,20 +207,16 @@
     <section class="spacing__x">
         <div class="marquee-text mb-75">
             <marquee width="120%" direction="right" scrollamount="12">
-                <h4>What <span class="word-gap"></span>Binaro <span class="word-gap"></span>is <span
-                        class="word-gap"></span> doing <span class="word-gap"></span> to <span
-                        class="word-gap"></span>help</h4>
+                <h4>What <span class="word-gap"></span>Binaro <span class="word-gap"></span>is <span class="word-gap"></span> doing <span class="word-gap"></span> to <span class="word-gap"></span>help</h4>
             </marquee>
             <div class="intro-text-block">
-                <h2> Transforming
-                    <br /> <span class="head-style2">ideas into</span> <br /> digital realities
-                </h2>
+                <h2> Transforming<br /> <span class="head-style2">ideas into</span> <br /> digital realities</h2>
             </div>
         </div>
         <div class="container position-relative">
             <div class="digital-realities js-digital-realities">
                 <div class="overlap-box">
-                    <img src="assets\images\mix\1.jpg" class="img-fluid w-100" />
+                    <img src="assets/images/mix/2-min/1.jpg" class=" w-100" />
                     <div class="text_block_overlap_hover">
                         <div class="top-heading">
                             <h3>Eat Well And Do Good</h3>
@@ -240,7 +235,7 @@
                     </div>
                 </div>
                 <div class="overlap-box">
-                    <img src="assets\images\mix\2.jpg" class="img-fluid w-100" />
+                    <img src="assets/images/mix/2-min/2.jpg" class=" w-100" />
                     <div class="text_block_overlap_hover">
                         <div class="top-heading">
                             <h3>Eat Well And Do Good</h3>
@@ -259,7 +254,7 @@
                     </div>
                 </div>
                 <div class="overlap-box">
-                    <img src="assets\images\mix\1.jpg" class="img-fluid img-margbtm w-100" />
+                    <img src="assets/images/mix/2-min/1.jpg" class=" img-margbtm w-100" />
                     <div class="text_block_overlap_hover">
                         <div class="top-heading">
                             <h3>Eat Well And Do Good</h3>
@@ -278,7 +273,7 @@
                     </div>
                 </div>
                 <div class="overlap-box">
-                    <img src="assets\images\mix\2.jpg" class="img-fluid w-100" />
+                    <img src="assets/images/mix/2-min/2.jpg" class=" w-100" />
                     <div class="text_block_overlap_hover">
                         <div class="top-heading">
                             <h3>Eat Well And Do Good</h3>

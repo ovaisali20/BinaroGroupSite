@@ -72,7 +72,7 @@
             </div>
         </section>
 
-        <section class="job-inputs spacing__x">
+        <section class="job-inputs spacing__x pb-0">
             <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>Binaro <span class="word-gap"></span>Binaro Binaro <span class="word-gap"></span>Binaro Binaro<span class="word-gap"></span> Binaro Binaro<span class="word-gap"></span> Binaro Binaro <span class="word-gap"></span>Binaro Binaro<span class="word-gap"></span> Binaro</h4></marquee>
                 <div class="intro-text-block mb-3">
@@ -206,9 +206,7 @@
         </section>
 
         <!-- Footer -->
-        <div class="pad-top">
-            <?php include("../../includes/footer.php") ?>
-        </div>
+        <?php include("../../includes/footer.php") ?>
 
         <!-- Default Popup -->
         <?php include("../../includes/popup.php") ?>

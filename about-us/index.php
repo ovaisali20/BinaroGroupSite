@@ -10,7 +10,7 @@
 
         <?php include("../includes/header.php") ?>
 
-        <section class="banner style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/blue-bg.png);">
+        <section class="banner style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/banner-1.jpg);">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-6 col-md-12">
@@ -287,16 +287,12 @@
             </div>
         </section>
 
-        <div class="pad-tp">
-            <?php include("../includes/cta-1.php") ?>
-        </div>
+        <?php include("../includes/cta-1.php") ?>
 
         <?php include("../includes/module-section.php") ?>
 
         <!-- Footer -->
-        <div class="pad-top">
-            <?php include("../includes/footer.php") ?>
-        </div>
+        <?php include("../includes/footer.php") ?>
 
         <!-- Default Popup -->
         <?php include("../includes/popup.php") ?>
