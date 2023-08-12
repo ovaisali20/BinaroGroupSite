@@ -10,24 +10,51 @@
 
         <?php include("includes/header.php") ?>
 
-        <section id="banner-section">
+        <section class="home-banner">
             <div class="main">
-                <div class="slider slider-style-01">
-                    <div class="slider-box-banner">
-                        <div class="slider-text">
-                            <h3>Bringing your digital dreams to life</h3>
-                            <p>From concept to launch, we've got you covered</p>
+                <div class="js-home-slider">
+                    <div class="slide slide-01">
+                        <div class="slide-content">
+                            <div class="container">
+                                <div class="slider-box-banner">
+                                    <div class="slider-text">
+                                        <h2>Bringing your digital dreams to life</h2>
+                                        <p>From concept to launch, we've got you covered</p>
+                                    </div>
+                                    <div class="slider-btn">
+                                        <a href="javascript:;" class="btn-style-3">explore binaro design</a>
+                                        <a href="javascript:;" class="btn-style-3">view portfolio</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="slider-btn-style01">
-                            <a href="javascript:;">explore binaro design</a>
-                            <a href="javascript:;">view portfolio</a>
-                        </div>
+                        <img src="assets/images/banner/banner-home-1.jpg">
+                        <img class="element hb-e1" src="assets/images/elements/home-slider/security/1.png">
+                        <img class="element hb-e2" src="assets/images/elements/home-slider/security/2.png">
+                        <img class="element hb-e3" src="assets/images/elements/home-slider/security/3.png">
+                        <img class="element hb-e4" src="assets/images/elements/home-slider/security/4.png">
+                        <img class="element hb-e5" src="assets/images/elements/home-slider/security/5.png">
+                        <img class="element hb-e6" src="assets/images/elements/home-slider/security/6.png">
                     </div>
-                    <div><h3>2</h3></div>
-                    <div><h3>3</h3></div>
-                    <div><h3>4</h3></div>
-                    <div><h3>5</h3></div>
+                    <div class="slide slide-02">
+                        <div class="slide-content">
+                            <div class="container">
+                                <div class="slider-box-banner">
+                                    <div class="slider-text">
+                                        <h2>Bringing your digital dreams to life</h2>
+                                        <p>From concept to launch, we've got you covered</p>
+                                    </div>
+                                    <div class="slider-btn">
+                                        <a href="javascript:;" class="btn-style-3">explore binaro design</a>
+                                        <a href="javascript:;" class="btn-style-3">view portfolio</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <img src="assets/images/banner/banner-home-2.jpg">
+                    </div>
                 </div>
+                <img class="element element-bicon" src="assets/images/elements/b-icon.png">
             </div>
         </section>
 

@@ -35,6 +35,17 @@ $(document).ready(function () {
         closePopup();
     });
 
+    
+    // Home slider
+    $('.js-home-slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        speed: 2000,
+        fade: true,
+        autoplay: true,
+        arrows: false,
+        dots: false,
+    });
 
     $('.slider-style-01').slick({
         slidesToShow: 1,
