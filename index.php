@@ -6,6 +6,7 @@
         <?php include("includes/compatibility.php") ?>
         <?php include("includes/styles.php") ?>
     </head>
+
     <body class="home-page">
 
         <?php include("includes/header.php") ?>
@@ -36,7 +37,7 @@
                         <img class="element hb-e5" src="assets/images/elements/home-slider/security/5.png">
                         <img class="element hb-e6" src="assets/images/elements/home-slider/security/6.png">
                     </div>
-                    <div class="slide slide-02">
+                    <div class="slide slide-01">
                         <div class="slide-content">
                             <div class="container">
                                 <div class="slider-box-banner">
@@ -52,6 +53,58 @@
                             </div>
                         </div>
                         <img src="assets/images/banner/banner-home-2.jpg">
+                        <img class="element hb-e1" src="assets/images/elements/home-slider/media/1.png">
+                        <img class="element hb-e2" src="assets/images/elements/home-slider/media/2.png">
+                        <img class="element hb-e3" src="assets/images/elements/home-slider/media/3.png">
+                        <img class="element hb-e4" src="assets/images/elements/home-slider/media/4.png">
+                        <img class="element hb-e5" src="assets/images/elements/home-slider/media/5.png">
+                        <img class="element hb-e6" src="assets/images/elements/home-slider/media/6.png">
+                    </div>
+                    <div class="slide slide-01">
+                        <div class="slide-content">
+                            <div class="container">
+                                <div class="slider-box-banner">
+                                    <div class="slider-text">
+                                        <h2>Bringing your digital dreams to life</h2>
+                                        <p>From concept to launch, we've got you covered</p>
+                                    </div>
+                                    <div class="slider-btn">
+                                        <a href="javascript:;" class="btn-style-3">explore binaro design</a>
+                                        <a href="javascript:;" class="btn-style-3">view portfolio</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <img src="assets/images/banner/banner-home-3.jpg">
+                        <img class="element hb-e1" src="assets/images/elements/home-slider/development/1.png">
+                        <img class="element hb-e2" src="assets/images/elements/home-slider/development/2.png">
+                        <img class="element hb-e3" src="assets/images/elements/home-slider/development/3.png">
+                        <img class="element hb-e4" src="assets/images/elements/home-slider/development/4.png">
+                        <img class="element hb-e5" src="assets/images/elements/home-slider/development/5.png">
+                        <img class="element hb-e6" src="assets/images/elements/home-slider/development/6.png">
+                    </div>
+                    <div class="slide slide-01">
+                        <div class="slide-content">
+                            <div class="container">
+                                <div class="slider-box-banner">
+                                    <div class="slider-text">
+                                        <h2>Bringing your digital dreams to life</h2>
+                                        <p>From concept to launch, we've got you covered</p>
+                                    </div>
+                                    <div class="slider-btn">
+                                        <a href="javascript:;" class="btn-style-3">explore binaro design</a>
+                                        <a href="javascript:;" class="btn-style-3">view portfolio</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <img src="assets/images/banner/banner-home-4.jpg">
+                        <img class="element hb-e1" src="assets/images/elements/home-slider/security/1.png">
+                        <img class="element hb-e2" src="assets/images/elements/home-slider/security/2.png">
+                        <img class="element hb-e3" src="assets/images/elements/home-slider/security/3.png">
+                        <img class="element hb-e4" src="assets/images/elements/home-slider/security/4.png">
+                        <img class="element hb-e5" src="assets/images/elements/home-slider/security/5.png">
+                        <img class="element hb-e6" src="assets/images/elements/home-slider/security/6.png">
                     </div>
                 </div>
                 <img class="element element-bicon" src="assets/images/elements/b-icon.png">
@@ -59,36 +112,34 @@
         </section>
 
         <section id="brandlogo-section">
-            <div class="ps_07">
-                <div class="container">
-                    <div class="brand-headtext">
-                        <h3>Trusted by</h3>
+            <div class="container">
+                <div class="brand-headtext">
+                    <h3>Trusted by</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2 col-md-2 col-sm-6">
+                        <div class="logo-block">
+                            <img src="assets/images/elements/larky-logo.png" class="brndlogos img-fluid" />
+                        </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-2 col-md-2 col-sm-6">
-                            <div class="logo-block">
-                                <img src="assets/images/elements/larky-logo.png" class="brndlogos img-fluid" />
-                            </div>
+                    <div class="col-lg-2 col-md-2 col-sm-6">
+                        <div class="logo-block">
+                            <img src="assets/images/elements/lunch-check-logo.png" class="brndlogos img-fluid" />
                         </div>
-                        <div class="col-lg-2 col-md-2 col-sm-6">
-                            <div class="logo-block">
-                                <img src="assets/images/elements/lunch-check-logo.png" class="brndlogos img-fluid" />
-                            </div>
+                    </div>
+                    <div class="col-lg-3 col-md-2 col-sm-6">
+                        <div class="logo-block">
+                            <img src="assets/images/elements/confidein-logo.png" class="brndlogos img-fluid" />
                         </div>
-                        <div class="col-lg-3 col-md-2 col-sm-6">
-                            <div class="logo-block">
-                                <img src="assets/images/elements/confidein-logo.png" class="brndlogos img-fluid" />
-                            </div>
+                    </div>
+                    <div class="col-lg-3 col-md-2 col-sm-6">
+                        <div class="logo-block">
+                            <img src="assets/images/elements/Waveritas_Logo.png" class="brndlogos img-fluid" />
                         </div>
-                        <div class="col-lg-3 col-md-2 col-sm-6">
-                            <div class="logo-block">
-                                <img src="assets/images/elements/Waveritas_Logo.png" class="brndlogos img-fluid" />
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-2 col-sm-6">
-                            <div class="logo-block">
-                                <img src="assets/images/elements/sihltal-thumbnail.png" class="brndlogos" />
-                            </div>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-6">
+                        <div class="logo-block">
+                            <img src="assets/images/elements/sihltal-thumbnail.png" class="brndlogos" />
                         </div>
                     </div>
                 </div>
@@ -139,7 +190,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -160,7 +211,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -181,7 +232,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -202,7 +253,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -227,7 +278,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -248,7 +299,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -269,7 +320,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -290,7 +341,7 @@
                                     <div class="text_block_overlap_hover">
                                         <div class="top-heading">
                                             <h3>Eat Well And Do Good</h3>
-                                            <p>Description here</p>
+                                            <p>The Ordering platform of Swiss gastronomy. Fast, but guet</p>
                                         </div>
                                         <div class="top-heading bottom_heading">
                                             <h2>
@@ -320,7 +371,7 @@
 
         <?php include("includes/module-section.php") ?>
 
-        <section class="ai-section spacing__x">
+        <section class="ai-section spacing__x pb-0">
             <div class="marquee-text">
                 <marquee direction="right" scrollamount="12"><h4>ai with binaro ai with binaro ai with binaro ai with binaro ai with binaro ai with binaro</h4></marquee>
                 <div class="intro-text-block">

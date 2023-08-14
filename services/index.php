@@ -13,19 +13,19 @@
         <section class="banner style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/banner-1.jpg);">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 col-md-6 col-md-12">
+                    <div class="col-lg-7">
                         <div class="abt-text-block">
-                            <h2 class="heading-style-1">GOLden circle</h2>
-                            <p class="mb-4">Binaro provides one-window solution for all your design and development needs. Our aim is to provide high-quality digital solution to all the businesses, from small and medium companies to fortune 500 companies and help them grow further.</p>
+                            <h2 class="heading-style-1">Custom software services trusted around the globe</h2>
+                            <p class="mb-4">Technology and industry agnostic one-window solutions, verifiable market references, SLA-backed support and vast partner network</p>
                             <ul class="d-inline-flex">
                                 <li><a href="javascript:;" class="btn-style-3 mr-2">EXPLORE MORE</a></li>
                                 <li><a href="javascript:;" class="btn-style-3">REquest A quote</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-md-12">
+                    <div class="col-lg-5">
                         <div class="abt-img-block">
-                            <img src="assets/images/banner/banner-golden-circle.png" />
+                            <img src="assets/images/elements/element-service.png" />
                         </div>
                     </div>
                 </div>

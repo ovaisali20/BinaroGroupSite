@@ -27,8 +27,8 @@
 
         <section class="transforming-section spacing__x">
             <div class="marquee-text">
-                <marquee width="120%" direction="right" scrollamount="12"><h4>Why <span class="word-gap"></span>Binaro Why <span class="word-gap"></span>Binaro Why<span class="word-gap"></span> Binaro Why<span class="word-gap"></span> Binaro Why <span class="word-gap"></span>Binaro Why<span class="word-gap"></span> Binaro</h4></marquee>
-                <div class="intro-text-block mb-3">
+                <marquee width="120%" direction="right" scrollamount="12"><h4><span class="anim-red opacity-point-1">WHY JOIN BINARO</span></h4></marquee>
+                <div class="intro-text-block mb-50">
                     <h2>Why<br /> <span class="head-style2">Join</span><br />Binaro</h2>
                 </div>
             </div>

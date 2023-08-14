@@ -21,7 +21,7 @@
                             <li><a href="about-us">About Us</a></li>
                             <li><a href="javascript:;">Portfolio</a></li>
                             <li><a href="javascript:;">Resources</a></li>
-                            <li><a href="javascript:;">Blogs</a></li>
+                            <li><a href="blogs">Blogs</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -39,3 +39,136 @@
         </div>
     </div>
 </header>
+
+<div class="binaro-site-menu">
+    <a href="javascript:;" class="close-site-menu"><i class="fas fa-times"></i></a>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="binaro-group">
+                    <div class="head bg-color-dark-blue">
+                        <img src="assets/images/mix/log-white.png" />
+                    </div>
+                    <div class="binaro-group-title">
+                        <h3>Binaro <br />group</h3>
+                    </div>
+                    <div class="binaro-group-navigation">
+                        <ul>
+                            <li>
+                                <a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/1.svg" /> iOS App Development</a>
+                                <ul class="sub-menu">
+                                    <li><a href="javascript:;">Mobile App Design</a></li>
+                                    <li><a href="javascript:;">Website Design</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/2.svg" /> Android App Development</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/3.svg" /> CMS Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/4.svg" /> E-Commerce Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/5.svg" /> Custom Website</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="binaro-group">
+                    <div class="head bg-color-green">
+                        <img src="assets/images/mix/log-white.png" />
+                    </div>
+                    <div class="binaro-group-title">
+                        <h3>Binaro <br />Design</h3>
+                    </div>
+                    <div class="binaro-group-navigation">
+                        <ul>
+                            <li>
+                                <a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/1.svg" /> iOS App Development</a>
+                                <ul class="sub-menu">
+                                    <li><a href="javascript:;">Mobile App Design</a></li>
+                                    <li><a href="javascript:;">Website Design</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/2.svg" /> Android App Development</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/3.svg" /> CMS Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/4.svg" /> E-Commerce Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/5.svg" /> Custom Website</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="binaro-group">
+                    <div class="head bg-color-light-blue">
+                        <img src="assets/images/mix/log-white.png" />
+                    </div>
+                    <div class="binaro-group-title">
+                        <h3>Binaro <br />Development</h3>
+                    </div>
+                    <div class="binaro-group-navigation">
+                        <ul>
+                            <li>
+                                <a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/1.svg" /> iOS App Development</a>
+                                <ul class="sub-menu">
+                                    <li><a href="javascript:;">Mobile App Design</a></li>
+                                    <li><a href="javascript:;">Website Design</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/2.svg" /> Android App Development</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/3.svg" /> CMS Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/4.svg" /> E-Commerce Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/5.svg" /> Custom Website</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="binaro-group">
+                    <div class="head bg-color-red">
+                        <img src="assets/images/mix/log-white.png" />
+                    </div>
+                    <div class="binaro-group-title">
+                        <h3>Binaro <br />Media</h3>
+                    </div>
+                    <div class="binaro-group-navigation">
+                        <ul>
+                            <li>
+                                <a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/1.svg" /> iOS App Development</a>
+                                <ul class="sub-menu">
+                                    <li><a href="javascript:;">Mobile App Design</a></li>
+                                    <li><a href="javascript:;">Website Design</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/2.svg" /> Android App Development</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/3.svg" /> CMS Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/4.svg" /> E-Commerce Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/5.svg" /> Custom Website</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="binaro-group">
+                    <div class="head bg-color-cyan">
+                        <img src="assets/images/mix/log-white.png" />
+                    </div>
+                    <div class="binaro-group-title">
+                        <h3>Binaro <br />security</h3>
+                    </div>
+                    <div class="binaro-group-navigation">
+                        <ul>
+                            <li>
+                                <a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/1.svg" /> iOS App Development</a>
+                                <ul class="sub-menu">
+                                    <li><a href="javascript:;">Mobile App Design</a></li>
+                                    <li><a href="javascript:;">Website Design</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/2.svg" /> Android App Development</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/3.svg" /> CMS Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/4.svg" /> E-Commerce Website</a></li>
+                            <li><a href="javascript:;" class="nav-item"><img src="assets/images/mix/binaro-menu/binaro-group/5.svg" /> Custom Website</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

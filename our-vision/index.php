@@ -10,10 +10,10 @@
 
         <?php include("../includes/header.php") ?>
 
-        <section class="banner style-2 bg-color-primary bg-detail-1 pb-0" style="background-image: url(assets/images/bg/blue-bg.png);">
+        <section class="banner style-2 bg-color-primary bg-detail-1 pb-0" style="background-image: url(assets/images/bg/banner-1.jpg);">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 col-md-6 col-md-12">
+                    <div class="col-lg-6">
                         <div class="abt-text-block">
                             <h2 class="heading-style-1">Vision</h2>
                             <p>
@@ -24,7 +24,7 @@
                             </p>
                         </div>
                     </div>
-                    <div classa="col-lg-6 col-md-6 col-md-12">
+                    <div classa="col-lg-6">
                         <div class="vision-img-block">
                             <img src="assets/images/mix/vision-banner-img.png" class="img-fluid vis-img" />
                         </div>

@@ -68,8 +68,8 @@
 
         <section class="spacing__x">
             <div class="marquee-text">
-                <marquee width="120%" direction="right" scrollamount="12"><h4>who <span class="word-gap"></span>how who <span class="word-gap"></span>how who<span class="word-gap"></span> how how<span class="word-gap"></span> how who<span class="word-gap"></span>how who<span class="word-gap"></span> how</h4></marquee>
-                <div class="intro-text-block">
+                <marquee width="120%" direction="right" scrollamount="12"><h4><span class="anim-red opacity-point-1">who how who how who how who how who how who how</span></h4></marquee>
+                <div class="intro-text-block mb-80">
                     <h2>Todays <br /> <span class="head-style2">Trending</span><br />Tools</h2>
                 </div>
             </div>
@@ -195,9 +195,9 @@
 
         <section class="spacing__x">
             <div class="marquee-text">
-                <marquee width="120%" direction="right" scrollamount="12"><h4>who <span class="word-gap"></span>how who <span class="word-gap"></span>how who<span class="word-gap"></span> how how<span class="word-gap"></span> how who<span class="word-gap"></span>how who<span class="word-gap"></span> how</h4></marquee>
-                <div class="intro-text-block">
-                    <h2>most <br /> <span class="head-style2">Amazing</span><br />tools</h2>
+                <marquee width="120%" direction="right" scrollamount="12"><h4><span class="anim-red opacity-point-1">who how who how who how who how who how who how</span></h4></marquee>
+                <div class="intro-text-block mb-80">
+                    <h2>Most <br /> <span class="head-style2">Amazing</span><br />Tools</h2>
                 </div>
             </div>
             <div class="container">

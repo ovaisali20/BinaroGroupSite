@@ -10,7 +10,7 @@
 
         <?php include("../includes/header.php") ?>
 
-        <section class="banner style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/blue-bg.png);">
+        <section class="banner style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/banner-1.jpg);">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-6 col-md-12">
@@ -31,7 +31,7 @@
         <section class="pb-0 spacing__x">
             <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>Who <span class="word-gap"></span>Why <span class="word-gap"></span>How <span class="word-gap"></span>What <span class="word-gap"></span></h4></marquee>
-                <div class="intro-text-block mb-3">
+                <div class="intro-text-block mb-80">
                     <h2>binaro<br> <span class="head-style2">Golden</span><br>circle</h2>
                 </div>
             </div>

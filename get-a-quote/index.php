@@ -13,7 +13,7 @@
         <section class="get-a-quote spacing__x bg-detail-1" style="background-image: url(assets/images/bg/bg-get-a-quote.jpg)">
             <div class="container">
                 <div class="row align-items-end">
-                    <div class="col-lg-8">
+                    <div class="col-lg-7">
                         <div class="banner-text">
                             <h1 class="heading-style-1 before-none">let’s start <br />together</h1>
                             <p>tell us about your project</p>
@@ -111,7 +111,7 @@
                             </form>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-5">
                         <div class="img-box">
                             <img src="assets/images/elements/element-contact-us.png" />
                         </div>

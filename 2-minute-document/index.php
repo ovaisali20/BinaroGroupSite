@@ -30,14 +30,10 @@
     </section>
 
     <section class="spacing__x">
-        <div class="marquee-text mb-75">
-            <marquee width="120%" direction="right" scrollamount="12">
-                <h4>What <span class="word-gap"></span>Binaro <span class="word-gap"></span>is <span
-                        class="word-gap"></span> doing <span class="word-gap"></span> to <span
-                        class="word-gap"></span>help</h4>
-            </marquee>
-            <div class="intro-text-block">
-                <h2> know us <br /> <span class="head-style2">in just</span><br />2 minutes</h2>
+        <div class="marquee-text">
+            <marquee width="120%" direction="right" scrollamount="12"><h4><span class="anim-red opacity-point-1">What Binaro is doing to help</span></h4></marquee>
+            <div class="intro-text-block mb-80">
+                <h2>know us <br /> <span class="head-style2">in just</span><br />2 minutes</h2>
             </div>
         </div>
         <div class="container">
@@ -53,7 +49,7 @@
                                         2 Minute Series Document</h6>
                                 </div>
                                 <div class="col-md-6 text-right">
-                                    <a href="#">Download</a>
+                                    <a href="javascript:;">Download</a>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +66,7 @@
                                         2 Minute Series Document</h6>
                                 </div>
                                 <div class="col-md-6 text-right">
-                                    <a href="#">Download</a>
+                                    <a href="javascript:;">Download</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +83,7 @@
                                         2 Minute Series Document</h6>
                                 </div>
                                 <div class="col-md-6 text-right">
-                                    <a href="#">Download</a>
+                                    <a href="javascript:;">Download</a>
                                 </div>
                             </div>
                         </div>
@@ -104,7 +100,7 @@
                                         2 Minute Series Document</h6>
                                 </div>
                                 <div class="col-md-6 text-right">
-                                    <a href="#">Download</a>
+                                    <a href="javascript:;">Download</a>
                                 </div>
                             </div>
                         </div>
@@ -121,7 +117,7 @@
                                         2 Minute Series Document</h6>
                                 </div>
                                 <div class="col-md-6 text-right">
-                                    <a href="#">Download</a>
+                                    <a href="javascript:;">Download</a>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +134,7 @@
                                         2 Minute Series Document</h6>
                                 </div>
                                 <div class="col-md-6 text-right">
-                                    <a href="#">Download</a>
+                                    <a href="javascript:;">Download</a>
                                 </div>
                             </div>
                         </div>
@@ -150,10 +146,8 @@
 
     <section class="spacing__x">
         <div class="marquee-text mb-110">
-            <marquee width="120%" direction="right" scrollamount="12">
-                <h4>What <span class="word-gap"></span>Binaro <span class="word-gap"></span>is <span
-                        class="word-gap"></span> doing <span class="word-gap"></span> to <span
-                        class="word-gap"></span>help</h4>
+            <marquee direction="right" scrollamount="12">
+                <h4><span class="anim-red opacity-point-1">What Binaro is doing to help</span></h4>
             </marquee>
             <div class="intro-text-block">
                 <h2> our binaro <br /> <span class="head-style2">profiles</span></h2>
@@ -168,7 +162,7 @@
                             <h6>Binaro Development 2 Minute Series Document</h6>
                         </div>
                         <div class="col-md-6 text-right">
-                            <a href="#">Download</a>
+                            <a href="javascript:;">Download</a>
                         </div>
                     </div>
                 </div>
@@ -181,7 +175,7 @@
                             <h6>Binaro Development 2 Minute Series Document</h6>
                         </div>
                         <div class="col-md-6 text-right">
-                            <a href="#">Download</a>
+                            <a href="javascript:;">Download</a>
                         </div>
                     </div>
                 </div>
@@ -194,7 +188,7 @@
                             <h6>Binaro Development 2 Minute Series Document</h6>
                         </div>
                         <div class="col-md-6 text-right">
-                            <a href="#">Download</a>
+                            <a href="javascript:;">Download</a>
                         </div>
                     </div>
                 </div>
@@ -207,10 +201,10 @@
     <section class="spacing__x">
         <div class="marquee-text mb-75">
             <marquee width="120%" direction="right" scrollamount="12">
-                <h4>What <span class="word-gap"></span>Binaro <span class="word-gap"></span>is <span class="word-gap"></span> doing <span class="word-gap"></span> to <span class="word-gap"></span>help</h4>
+                <h4><span class="anim-red opacity-point-1">What Binaro is doing to help</span></h4>
             </marquee>
-            <div class="intro-text-block">
-                <h2> Transforming<br /> <span class="head-style2">ideas into</span> <br /> digital realities</h2>
+            <div class="intro-text-block mb-80">
+                <h2>Transforming<br /> <span class="head-style2">ideas into</span> <br /> digital realities</h2>
             </div>
         </div>
         <div class="container position-relative">

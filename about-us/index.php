@@ -13,13 +13,13 @@
         <section class="banner style-2 bg-color-primary bg-detail-1" style="background-image: url(assets/images/bg/banner-1.jpg);">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-6 col-md-12">
+                    <div class="col-lg-7">
                         <div class="abt-text-block">
                             <h2 class="heading-style-1">About Binaro</h2>
                             <p>Binaro Group is your precise, customized, and economical partner for Design, Development, and Media Services. We are more than just a service provider; we believe in thinking big, being innovative, and embracing challenges to develop smart and customized solutions that solve problems in unexpected ways. Discover how Binaro Group can help you achieve your digital goals and make a positive impact in your success story.</p>
                         </div>
                     </div>
-                    <div classa="col-lg-6 col-md-6 col-md-12">
+                    <div classa="col-lg-5">
                         <div class="abt-img-block">
                             <img src="assets\images\mix\abt-banner-img.png" class="img-fluid" />
                         </div>
@@ -31,7 +31,7 @@
         <section class="spacing__x">
             <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>OUR <span class="word-gap"></span>vision OUR <span class="word-gap"></span>vision OUR<span class="word-gap"></span> vision OUR<span class="word-gap"></span> vision OUR <span class="word-gap"></span>vision OUR<span class="word-gap"></span> vision</h4></marquee>
-                <div class="intro-text-block mb-3">
+                <div class="intro-text-block mb-30">
                     <h2>binaro<br /> <span class="head-style2">vision</span><br />statement</h2>
                 </div>
             </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="marquee-text">
                 <marquee direction="right" scrollamount="12"><h4>OUR MISSION OUR MISSION OUR MISSION OUR MISSION OUR MISSION</h4></marquee>
-                <div class="intro-text-block mb-3">
+                <div class="intro-text-block mb-30">
                     <h2>Our <br /> <span class="head-style2">mission</span><br />statement</h2>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                                     success story.
                                 </p>
                             </div>
-                            <div class="golden-btn"><a href="javascript:;">READ MORE</a></div>
+                            <div class="golden-btn"><a href="golden-circle">READ MORE</a></div>
                         </div>
                         <div classa="col-lg-6 col-md-6 col-md-12">
                             <div class="abt-img-block">
@@ -155,7 +155,7 @@
         <section class="our-core spacing__x pb-0">
             <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>core values core values core values core values core values core values core values</h4></marquee>
-                <div class="intro-text-block">
+                <div class="intro-text-block mb-30">
                     <h2>Our<br /> <span class="head-style2">Core</span><br />values</h2>
                 </div>
             </div>
@@ -174,7 +174,7 @@
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center">
                         <div class="text-center mb-110 mt-50">
-                            <a href="our-vision" class="btn-style-1">in More detail</a>
+                            <a href="core-values" class="btn-style-1">in More detail</a>
                         </div>
                     </div>
                 </div>

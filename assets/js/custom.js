@@ -7,6 +7,17 @@ $(document).ready(function () {
         $("body").toggleClass("over-hidden");
     });
 
+    // Binaro Main Menu
+    $('.bar-nav > a').on('click', function(){
+        $('.binaro-site-menu').addClass('active');
+    });
+    $('.close-site-menu').on('click', function(){
+        $('.binaro-site-menu').removeClass('active');
+    });
+    $('.binaro-group-navigation .nav-item').on('click', function(){
+        $(this).parent().toggleClass('active');
+    });
+
     /* Tabbing Function */
     $("[data-targetit]").on("click", function (e) {
         $(this).addClass("active");

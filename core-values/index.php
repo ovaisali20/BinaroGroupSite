@@ -21,7 +21,7 @@
                     </div>
                     <div classa="col-lg-6 col-md-6 col-md-12">
                         <div class="abt-img-block">
-                            <img src="assets\images\mix\abt-banner-img.png" class="img-fluid" />
+                            <img src="assets/images/elements/element-core-value.png" />
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
         <section class="pb-0 spacing__x">
             <div class="marquee-text">
                 <marquee width="120%" direction="right" scrollamount="12"><h4>core <span class="word-gap"></span>Values core <span class="word-gap"></span>Values core <span class="word-gap"></span>Values core <span class="word-gap"></span>Values</h4></marquee>
-                <div class="intro-text-block mb-3">
+                <div class="intro-text-block mb-110">
                     <h2>binaro<br> <span class="head-style2">core</span><br>values</h2>
                 </div>
             </div>
