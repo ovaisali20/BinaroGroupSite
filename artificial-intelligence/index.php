@@ -13,7 +13,7 @@
         <section class="banner banner-style-5 bg-detail-1" style="background-image: url(assets/images/bg/bg-ai.jpg);">
             <div>
                 <div class="container pos-unset">
-                    <div class="row align-self-center">
+                    <div class="row">
                         <div class="col-lg-6 pos-unset">
                             <div class="banner-text-5">
                                 <h1>Future Is Wide Open</h1>
@@ -27,8 +27,8 @@
             </div>
         </section>
 
-        <section class="about-ai">
-            <div class="ai-benifits">
+        <section class="about-banner-5">
+            <div class="banner-5-benifits before-light-blue">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7">

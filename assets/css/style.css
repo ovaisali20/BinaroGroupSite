@@ -36,6 +36,7 @@ h6 {
     font-weight: 700;
     line-height: 1.13;
     font-family: var(--ff-proxima);
+    color: #404041;
 }
 p {
     display: block;
@@ -456,6 +457,10 @@ ul.inline-block li:last-child {
 }
 .bc-cyan {
     border-color: var(--color-cyan);
+}
+
+.fs-46 {
+    font-size: 46px !important;
 }
 
 .btn-style-1 {
@@ -2495,7 +2500,7 @@ padding: 12px 0;
     color: #FFFFFF;
 }
 
-.about-ai {
+.about-banner-5 {
     position: relative;
     margin-top: -250px;
 }
@@ -2527,30 +2532,35 @@ padding: 12px 0;
     font-weight: 400;
 }
 
-.ai-benifits {
+.banner-5-benifits {
     position: relative;
 }
-.ai-benifits::before {
+.banner-5-benifits::before {
     content: '';
     position: absolute;
     left: 0;
     top: 0;
-    background-color: var(--color-dark-blue);
     width: 60%;
     height: 100%;
 }
-.ai-benifits .text-box {
+.before-light-blue::before {
+    background-color: var(--color-dark-blue);
+}
+.before-red::before {
+    background-color: var(--color-red);
+}
+.banner-5-benifits .text-box {
     position: relative;
     padding: 80px 0 200px 0;
 }
-.ai-benifits .text-box h2 {
+.banner-5-benifits .text-box h2 {
     margin: 0 0 25px 0;
     color: #FFFFFF;
     font-size: 64px;
     font-weight: 700;
     text-transform: uppercase;
 }
-.ai-benifits .text-box p {
+.banner-5-benifits .text-box p {
     margin: 0;
     color: #FFFFFF;
     font-size: 26px;
@@ -2889,4 +2899,61 @@ padding: 12px 0;
     color: #FFFFFF;
     text-transform: capitalize;
     font-size: 12px;
+}
+
+.provided-services {
+    position: relative;
+    padding: 100px 60px;
+    border: 2px solid #404041;
+    border-radius: 4px;
+    margin-bottom: 40px;
+}
+.provided-services::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 9px;
+    height: 100%;
+    z-index: -1;
+    transition: all 0.4s ease-in-out;
+}
+.provided-services.bl-dark-blue::before {
+    background-color: var(--color-dark-blue);
+}
+.provided-services.bl-light-blue::before {
+   background-color: var(--color-light-blue);
+}
+.provided-services.bl-red::before {
+   background-color: var(--color-red);
+}
+.provided-services.bl-green::before {
+   background-color: var(--color-green);
+}
+.provided-services:hover::before {
+    width: 100%;
+}
+.provided-services:hover .img-box svg path {
+    fill: #FFFFFF;
+}
+.provided-services:hover .text-box h4, .provided-services:hover .text-box p {
+    color: #FFFFFF;
+}
+.provided-services .img-box {
+    margin-bottom: 35px;
+}
+.provided-services .img-box svg {
+    width: 63px;
+    height: 63px;
+}
+.provided-services .text-box h4 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.provided-services .text-box p {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
 }
